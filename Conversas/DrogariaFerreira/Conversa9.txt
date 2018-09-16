@@ -1,0 +1,22 @@
+28/04/18 10:52 - DROGARIA FERREIRA - STA CRUZ - KELLY: Bom dia
+28/04/18 10:53 - DROGARIA FERREIRA - STA CRUZ - KELLY: Gostaria de uma informação sobre o Dropbox que foi instalado no computador ele faz os backups do sistema automático?
+28/04/18 10:53 - Infog2 Tecnologia: Sim
+28/04/18 10:53 - DROGARIA FERREIRA - STA CRUZ - KELLY: Ele faz diariamente ?
+28/04/18 10:54 - DROGARIA FERREIRA - STA CRUZ - KELLY: Eu abri para observar o último dia foi dia 24
+28/04/18 10:54 - Infog2 Tecnologia: Só um instante
+28/04/18 10:54 - DROGARIA FERREIRA - STA CRUZ - KELLY: Ok
+28/04/18 10:56 - Infog2 Tecnologia: Me passa o teamviewer pra que eu possa verificar
+28/04/18 10:56 - DROGARIA FERREIRA - STA CRUZ - KELLY: Ok
+28/04/18 10:56 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+28/04/18 11:10 - Infog2 Tecnologia: Verifica pra mim se a senha mudou
+28/04/18 11:10 - DROGARIA FERREIRA - STA CRUZ - KELLY: Do team
+28/04/18 11:10 - Infog2 Tecnologia: sim
+28/04/18 11:11 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+28/04/18 11:15 - Infog2 Tecnologia: Não funcionou o backup automático. Deixei esse icone na área de trabalho
+28/04/18 11:15 - DROGARIA FERREIRA - STA CRUZ - KELLY: Certo
+28/04/18 11:15 - Infog2 Tecnologia: Todos os dias, clica nele que ele vai fazer o backup, ok?
+28/04/18 11:15 - DROGARIA FERREIRA - STA CRUZ - KELLY: Diariamente eu executo ele ne
+28/04/18 11:15 - Infog2 Tecnologia: sim, uma vez por dia
+28/04/18 11:15 - DROGARIA FERREIRA - STA CRUZ - KELLY: Certo
+28/04/18 11:15 - DROGARIA FERREIRA - STA CRUZ - KELLY: Obrigado
+28/04/18 11:16 - Infog2 Tecnologia: Por nada! Bom dia

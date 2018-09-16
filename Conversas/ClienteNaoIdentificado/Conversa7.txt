@@ -1,0 +1,115 @@
+04/06/18 08:25 - ‪+55 99 8451-9992‬: Ola bom dia
+04/06/18 08:26 - ‪+55 99 8451-9992‬: Estou na duvida sobre como fazer uma venda a prazo pra uma cliente
+04/06/18 08:26 - Infog2 Tecnologia: Bom dia, aqui é Lislayne!
+04/06/18 08:26 - ‪+55 99 8451-9992‬: Eu consigo fazer aki no sistema do meu caixa
+04/06/18 08:27 - ‪+55 99 8451-9992‬: Ou so no de vendas
+04/06/18 08:27 - Infog2 Tecnologia: Vc consegui fazer no sistema do caixa
+04/06/18 08:27 - ‪+55 99 8451-9992‬: Prazer marcia
+04/06/18 08:27 - ‪+55 99 8451-9992‬: Mim ajude por favor
+04/06/18 08:27 - Infog2 Tecnologia: A diferença é que na hora de colocar a forma de pagamento, vc vai colocar aprazo.
+04/06/18 08:28 - ‪+55 99 8451-9992‬: Certo
+04/06/18 08:28 - ‪+55 99 8451-9992‬: Vou tentae aki
+04/06/18 08:28 - Infog2 Tecnologia: me conecta no seu computador que lhe mostro.
+04/06/18 08:30 - Infog2 Tecnologia: se não conseguir, me passa a id e senha do team viewer que lhe ajudo¹
+04/06/18 08:31 - ‪+55 99 8451-9992‬: Pronto to em fechar venda
+04/06/18 08:32 - ‪+55 99 8451-9992‬: Onde pede a forma de pgto
+04/06/18 08:32 - Infog2 Tecnologia: dar um enter
+04/06/18 08:32 - ‪+55 99 8451-9992‬: <Arquivo de mídia oculto>
+04/06/18 08:33 - Infog2 Tecnologia: e digita o percentual "%"
+04/06/18 08:33 - Infog2 Tecnologia: vai te listar todas as formas de pagamentos cadastrada
+04/06/18 08:33 - Infog2 Tecnologia: ai vc verifica se tem o nome a prazo ou duplicata.
+04/06/18 08:35 - Infog2 Tecnologia: conseguiu?
+04/06/18 08:39 - ‪+55 99 8451-9992‬: <Arquivo de mídia oculto>
+04/06/18 08:41 - Infog2 Tecnologia: Pode sim!
+04/06/18 08:41 - Infog2 Tecnologia: Fico no aguardo!
+04/06/18 08:41 - ‪+55 99 8451-9992‬: <Arquivo de mídia oculto>
+04/06/18 08:42 - Infog2 Tecnologia: ta ok!
+04/06/18 08:53 - ‪+55 99 8451-9992‬: <Arquivo de mídia oculto>
+04/06/18 08:53 - ‪+55 99 8451-9992‬: <Arquivo de mídia oculto>
+04/06/18 08:59 - Infog2 Tecnologia: pressione F2- Fechar venda
+04/06/18 08:59 - ‪+55 99 8451-9992‬: Pronto
+04/06/18 09:00 - Infog2 Tecnologia: dar enter ate a forma de pagamento
+04/06/18 09:00 - Infog2 Tecnologia: coloca 1 em dinheiro e o valor 108
+04/06/18 09:01 - ‪+55 99 8451-9992‬: Sim so q antes quero colocar o prazo
+04/06/18 09:01 - ‪+55 99 8451-9992‬: Pq ontem fez um mes dessa dessa venda
+04/06/18 09:02 - ‪+55 99 8451-9992‬: Ou seja ja venceu
+04/06/18 09:02 - Infog2 Tecnologia: esse compra que ela fez, foi toda aprazo e depois ela foi ai pagar os 108 reais? ou no dia da compra ela pagou 108 em dinheiro e passou o restante aprazo??
+04/06/18 09:02 - ‪+55 99 8451-9992‬: Isso
+04/06/18 09:02 - Infog2 Tecnologia: vc teria que ter feito a venda e lançado o debito no dia que a cliente comprou!
+04/06/18 09:02 - ‪+55 99 8451-9992‬: Foi todaa prazo
+04/06/18 09:03 - ‪+55 99 8451-9992‬: E agora pagou 108
+04/06/18 09:03 - Infog2 Tecnologia: Ah sim!
+04/06/18 09:03 - Infog2 Tecnologia: olha duplicata(é o aprazo) é o codigo 3
+04/06/18 09:04 - ‪+55 99 8451-9992‬: <Arquivo de mídia oculto>
+04/06/18 09:04 - Infog2 Tecnologia: então toda vez que alguem comprar aprazo vc vai colocar o codigo 3
+04/06/18 09:04 - ‪+55 99 8451-9992‬: certo
+04/06/18 09:04 - Infog2 Tecnologia: digita agora o valor 427,59
+04/06/18 09:05 - Infog2 Tecnologia: e dar enter para fechar a venda
+04/06/18 09:05 - Infog2 Tecnologia: colcoa a quantidade de parcelas
+04/06/18 09:05 - Infog2 Tecnologia: se foi em uma vez ou em duas
+04/06/18 09:06 - ‪+55 99 8451-9992‬: <Arquivo de mídia oculto>
+04/06/18 09:06 - Infog2 Tecnologia: não
+04/06/18 09:06 - Infog2 Tecnologia: o av é so depois que a venda estiver feita
+04/06/18 09:07 - ‪+55 99 8451-9992‬: certo
+04/06/18 09:07 - ‪+55 99 8451-9992‬: Entao aki posso fechar
+04/06/18 09:07 - Infog2 Tecnologia: quero saber se esse valor no dia que a pessoa comprou a data do pagamento foi para 30 dias
+04/06/18 09:07 - Infog2 Tecnologia: em uma so vez?w
+04/06/18 09:07 - ‪+55 99 8451-9992‬: Sim
+04/06/18 09:07 - ‪+55 99 8451-9992‬: Para 30
+04/06/18 09:08 - Infog2 Tecnologia: ou vc informou para ela se ela poderia pagar em 60 dias
+04/06/18 09:08 - ‪+55 99 8451-9992‬: Dias
+04/06/18 09:08 - Infog2 Tecnologia: duas vezes?
+04/06/18 09:08 - Infog2 Tecnologia: ok
+04/06/18 09:08 - ‪+55 99 8451-9992‬: Pronto fechei
+04/06/18 09:08 - Infog2 Tecnologia: pronto, agora vc pode imprimir se quiser
+04/06/18 09:08 - Infog2 Tecnologia: agora para dar o av
+04/06/18 09:08 - ‪+55 99 8451-9992‬: Agora o av
+04/06/18 09:09 - Infog2 Tecnologia: vc vai em F9 funcoes
+04/06/18 09:09 - Infog2 Tecnologia: depois no botão recebimento de titulos
+04/06/18 09:09 - Infog2 Tecnologia: clica na lupa
+04/06/18 09:09 - Infog2 Tecnologia: e pesquisa o nome do cliente
+04/06/18 09:11 - Infog2 Tecnologia: tem cadastrado essas duas contas para ela
+04/06/18 09:11 - ‪+55 99 8451-9992‬: <Arquivo de mídia oculto>
+04/06/18 09:11 - Infog2 Tecnologia: vc vai selecionar apenas a parcela de 427,59
+04/06/18 09:11 - ‪+55 99 8451-9992‬: <Arquivo de mídia oculto>
+04/06/18 09:12 - Infog2 Tecnologia: tem como cancelar
+04/06/18 09:12 - Infog2 Tecnologia: mas não agora
+04/06/18 09:12 - ‪+55 99 8451-9992‬: isso
+04/06/18 09:12 - Infog2 Tecnologia: é pelo SG
+04/06/18 09:12 - ‪+55 99 8451-9992‬: Ta
+04/06/18 09:12 - Infog2 Tecnologia: certo, parcela selecionada
+04/06/18 09:12 - ‪+55 99 8451-9992‬: <Arquivo de mídia oculto>
+04/06/18 09:12 - Infog2 Tecnologia: agora clica em pagar
+04/06/18 09:13 - Infog2 Tecnologia: la em "Valor a pagar"
+04/06/18 09:13 - Infog2 Tecnologia: vc vai digitar o valor que a cliente vai lhe dar
+04/06/18 09:13 - Infog2 Tecnologia: pronto
+04/06/18 09:13 - Infog2 Tecnologia: agora é só gravar, pois ja colocou o mesmo valor em forma de pagamento
+04/06/18 09:13 - Infog2 Tecnologia: pronto
+04/06/18 09:14 - ‪+55 99 8451-9992‬: <Arquivo de mídia oculto>
+04/06/18 09:14 - Infog2 Tecnologia: se vc clicar na parcela que houve av
+04/06/18 09:14 - Infog2 Tecnologia: ela vai lhe mostrar la em baixo o valor ja pago
+04/06/18 09:14 - ‪+55 99 8451-9992‬: certo
+04/06/18 09:14 - ‪+55 99 8451-9992‬: Obg
+04/06/18 09:14 - Infog2 Tecnologia: agora vc fecha essa tela ai
+04/06/18 09:15 - Infog2 Tecnologia: minimiza
+04/06/18 09:15 - Infog2 Tecnologia: isso
+04/06/18 09:15 - Infog2 Tecnologia: vc vai em financeiro
+04/06/18 09:15 - Infog2 Tecnologia: contas a receber
+04/06/18 09:15 - Infog2 Tecnologia: vai em pesquisa
+04/06/18 09:16 - Infog2 Tecnologia: dar enter e esquisa o cliente
+04/06/18 09:16 - Infog2 Tecnologia: clica em pesquisar lado direito
+04/06/18 09:16 - Infog2 Tecnologia: botão verde
+04/06/18 09:17 - Infog2 Tecnologia: clica em cima da parceça
+04/06/18 09:17 - Infog2 Tecnologia: e clica em cancelar
+04/06/18 09:17 - Infog2 Tecnologia: sim
+04/06/18 09:17 - Infog2 Tecnologia: pronto
+04/06/18 09:17 - Infog2 Tecnologia: não ira constar mais para ela
+04/06/18 09:17 - ‪+55 99 8451-9992‬: Ta ok
+04/06/18 09:17 - ‪+55 99 8451-9992‬: Desde ja obg pela ajuda
+04/06/18 09:17 - ‪+55 99 8451-9992‬: N conseguiria sozinha
+04/06/18 09:17 - Infog2 Tecnologia: Por nada, estamos a disposição!
+04/06/18 09:18 - ‪+55 99 8451-9992‬: Essa parte ainda n tinha feito
+04/06/18 09:18 - ‪+55 99 8451-9992‬: Mais obg ppr tdo
+04/06/18 09:18 - Infog2 Tecnologia: qualquer duvida só chamar
+04/06/18 09:18 - ‪+55 99 8451-9992‬: E tenha um bom dia
+04/06/18 09:18 - Infog2 Tecnologia: Bom dia para vc tambem!

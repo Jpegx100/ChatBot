@@ -1,0 +1,3 @@
+06/03/18 11:13 - AGROPECUÁRIA CAMPO FORTE - IGOR: Bom dia, preciso ativar opção de visualização das transações feita no caixa.
+06/03/18 11:13 - AGROPECUÁRIA CAMPO FORTE - IGOR: onde consigo?
+06/03/18 11:22 - Infog2 Tecnologia: em utilitarios --> perfis(selecione o perfil que vc esta associado) --> procure por utilitario, PDV la te a opção visualizar transaçoes

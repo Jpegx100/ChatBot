@@ -1,0 +1,39 @@
+19/05/18 10:28 - DROGARIA FERREIRA - STA CRUZ - KELLY: Bom dia
+19/05/18 10:28 - DROGARIA FERREIRA - STA CRUZ - KELLY: Como faço pre venda
+19/05/18 10:33 - DROGARIA FERREIRA - STA CRUZ - KELLY: Abrir chamado
+19/05/18 10:34 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+19/05/18 10:36 - Infog2 Tecnologia: Bom dia, você fala com Mayllana
+19/05/18 10:38 - DROGARIA FERREIRA - STA CRUZ - KELLY: Quero ajuda
+19/05/18 10:38 - DROGARIA FERREIRA - STA CRUZ - KELLY: Pra mudar isso
+19/05/18 10:42 - Infog2 Tecnologia: Antes de passar o leitor, coloque a quantidade e um * (exemplo 2*) depois de um enter e passe o leitor
+19/05/18 10:42 - DROGARIA FERREIRA - STA CRUZ - KELLY: Não quero assim
+19/05/18 10:43 - Infog2 Tecnologia: Foi uma solicitação sua feita anteriormente. Mas posso mudar a configuração
+19/05/18 10:43 - Infog2 Tecnologia: Me passa o teamviewer
+19/05/18 10:43 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+19/05/18 10:44 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+19/05/18 10:45 - DROGARIA FERREIRA - STA CRUZ - KELLY: Quero saber tbm onde faço pre venda
+19/05/18 10:47 - Infog2 Tecnologia: Pronto, a configu6foi retirada
+19/05/18 10:47 - Infog2 Tecnologia: E o atalho para pré Vendas foi adicionado
+19/05/18 10:48 - Infog2 Tecnologia: Você pode acessar com o seu usuário e senha e Testar
+19/05/18 10:48 - DROGARIA FERREIRA - STA CRUZ - KELLY: ?
+19/05/18 10:49 - Infog2 Tecnologia: Por aqui
+19/05/18 10:49 - DROGARIA FERREIRA - STA CRUZ - KELLY: Não entendi
+19/05/18 10:49 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+19/05/18 10:50 - Infog2 Tecnologia: Isso
+19/05/18 10:50 - Infog2 Tecnologia: Faz as pré Vendas Aqui, depois importa no caixa
+19/05/18 10:50 - Infog2 Tecnologia: Por aqui não sai do estoque
+19/05/18 10:50 - Infog2 Tecnologia: Somente quando é fechado no pdv
+19/05/18 10:51 - DROGARIA FERREIRA - STA CRUZ - KELLY: Não
+19/05/18 10:51 - DROGARIA FERREIRA - STA CRUZ - KELLY: Quero assim não
+19/05/18 10:51 - Infog2 Tecnologia: É assim que a pré venda funciona
+19/05/18 10:51 - Infog2 Tecnologia: O estoque só sai quando é fechado no pdv
+19/05/18 10:52 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+19/05/18 10:52 - Infog2 Tecnologia: No pdv tem a opção f5 importa onde mostra todas as pré Vendas feitas no dia pra serem fechadas
+19/05/18 10:52 - Infog2 Tecnologia: Nosso sistema sempre trabalhou dessa forma
+19/05/18 10:52 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+19/05/18 10:52 - DROGARIA FERREIRA - STA CRUZ - KELLY: e assim msm
+19/05/18 10:53 - Infog2 Tecnologia: Precisa de algo mais?
+19/05/18 10:53 - Infog2 Tecnologia: <Arquivo de mídia oculto>
+19/05/18 10:54 - DROGARIA FERREIRA - STA CRUZ - KELLY: Entendi
+19/05/18 10:55 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+19/05/18 10:56 - Infog2 Tecnologia: Isso. Por nada! Bom dia

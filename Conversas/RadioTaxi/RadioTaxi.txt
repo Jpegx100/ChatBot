@@ -1,0 +1,39 @@
+13/08/18 08:17 - As mensagens e chamadas desta conversa estão agora seguras com criptografia de ponta-a-ponta. Toque para obter mais informações.
+
+//O tratamento do bom dia é complexo, porque o usuário pode usar par finalizar a coversa 
+
+Usuário: Bom dia
+Infog2: Seja bem-vindo(a) a Infog2 Tecnologia! Estamos ansiosos para atendê-lo(a).
+
+13/08/18 08:17 - ‪+55 86 8151-9797‬: gostaria de abrir um chamado para atendimento
+13/08/18 08:17 - ‪+55 86 8151-9797‬: aqui é Nilmar
+13/08/18 08:17 - ‪+55 86 8151-9797‬: da rádio táxi
+13/08/18 08:29 - Infog2 Tecnologia: Bom dia aqui é Reinaldo
+13/08/18 08:30 - Infog2 Tecnologia: Estou abrindo um chamado
+13/08/18 08:30 - ‪+55 86 8151-9797‬: obrigado
+13/08/18 09:24 - ‪+55 86 8151-9797‬: <Arquivo de mídia oculto>
+13/08/18 09:24 - ‪+55 86 8151-9797‬: Maquina nova
+13/08/18 09:25 - ‪+55 86 8151-9797‬: <Arquivo de mídia oculto>
+13/08/18 14:04 - ‪+55 86 8151-9797‬: Boa tarde
+13/08/18 14:05 - ‪+55 86 8151-9797‬: Já estou na Radio Taxi
+13/08/18 14:05 - ‪+55 86 8151-9797‬: Reinaldo pediu pra avisar
+13/08/18 14:05 - ‪+55 86 8151-9797‬: Pra continuar o atendimento
+13/08/18 14:07 - Infog2 Tecnologia: Boa tarde
+13/08/18 14:08 - Infog2 Tecnologia: Mande o teamviewer
+13/08/18 14:08 - Infog2 Tecnologia: Só do novo computador
+13/08/18 14:08 - ‪+55 86 8151-9797‬: <Arquivo de mídia oculto>
+13/08/18 14:08 - ‪+55 86 8151-9797‬: É esse
+13/08/18 14:08 - Infog2 Tecnologia: Ok
+13/08/18 14:26 - ‪+55 86 8151-9797‬: Acho que não vai dar certo
+13/08/18 14:26 - ‪+55 86 8151-9797‬: Lembrei que está bloqueado
+13/08/18 14:26 - ‪+55 86 8151-9797‬: A rede
+13/08/18 14:26 - ‪+55 86 8151-9797‬: Para acessar outros sites
+13/08/18 14:26 - ‪+55 86 8151-9797‬: Vou falar com o administrador
+13/08/18 14:26 - Infog2 Tecnologia: <Arquivo de mídia oculto>
+13/08/18 14:27 - ‪+55 86 8151-9797‬: Certo
+13/08/18 14:27 - ‪+55 86 8151-9797‬: Pois tente
+13/08/18 14:49 - Infog2 Tecnologia: <Arquivo de mídia oculto>
+13/08/18 14:49 - ‪+55 86 8151-9797‬: Ta bom
+13/08/18 14:49 - ‪+55 86 8151-9797‬: Valeu Reinaldo
+13/08/18 14:49 - ‪+55 86 8151-9797‬: Te aviso depois
+13/08/18 14:50 - Infog2 Tecnologia: Ok

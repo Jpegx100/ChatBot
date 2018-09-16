@@ -1,0 +1,26 @@
+31/07/18 09:29 - DROGAFARMA: <Arquivo de mídia oculto>
+31/07/18 09:29 - Infog2 Tecnologia: Seja bem-vindo(a) a Infog2 Tecnologia! Estamos ansiosos para atendê-lo(a).
+31/07/18 09:31 - Infog2 Tecnologia: Bom dia sr Alacides, é Mayllana
+31/07/18 09:31 - Infog2 Tecnologia: Primeiro tem que verificar se tem esse estoque lá na anvisa
+31/07/18 09:33 - DROGAFARMA: <Arquivo de mídia oculto>
+31/07/18 09:37 - Infog2 Tecnologia: Pode sim
+31/07/18 09:39 - DROGAFARMA: <Arquivo de mídia oculto>
+31/07/18 09:50 - Infog2 Tecnologia: Qual o ms dos produtos?
+31/07/18 10:00 - DROGAFARMA: Não tem
+31/07/18 10:09 - Infog2 Tecnologia: Como assim não tem?
+31/07/18 10:15 - Infog2 Tecnologia: Preciso saber qual o produto no sistema
+31/07/18 10:24 - DROGAFARMA: Só não vai zerar só o zypred colírio e o vigamox colirio
+31/07/18 10:25 - Infog2 Tecnologia: É pra zerar todo o restante?
+31/07/18 10:26 - DROGAFARMA: Sim
+31/07/18 10:26 - Infog2 Tecnologia: Vou verificar se todo esses estoque está na anvisa
+31/07/18 10:26 - Infog2 Tecnologia: só um minuto
+31/07/18 10:27 - DROGAFARMA: Certo
+31/07/18 10:30 - Infog2 Tecnologia: Está. Todo esse estoque consta na anvisa
+31/07/18 10:30 - Infog2 Tecnologia: o senhor não estava passando as receitas?
+31/07/18 11:04 - DROGAFARMA: Tem como tirar do sistema da anvisa
+31/07/18 11:07 - Infog2 Tecnologia: Tem sim, mas vai ter que finalizar o inventário e refazer
+31/07/18 11:18 - DROGAFARMA: <Arquivo de mídia oculto>
+31/07/18 11:20 - Infog2 Tecnologia: O inventário é a recontagem do estoque
+31/07/18 11:21 - Infog2 Tecnologia: essa parte é feita por alguém da farmácia ou o próprio farmacêutico
+31/07/18 11:21 - Infog2 Tecnologia: Mas antes o farmacêutico deve finalizar oi inventário no site da anvisa para reajuste
+31/07/18 11:21 - Infog2 Tecnologia: quando ele tiver feito isso, eu configuro o sistema para inventário

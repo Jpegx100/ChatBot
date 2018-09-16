@@ -1,0 +1,33 @@
+17/05/18 15:11 - ‪+55 86 9455-1836‬: Boa tarde
+17/05/18 15:12 - ‪+55 86 9455-1836‬: Preciso falar com reinaldo
+17/05/18 15:12 - Infog2 Tecnologia: Boa tarde Fernando, é Mayllana.  Reinaldo está em atendimento no momento
+17/05/18 15:14 - ‪+55 86 9455-1836‬: Foi feita uma atualização hoje só que o preço na tela de venda não pode ser alterado e pra gente fica melhor alterando direto na tela de venda
+17/05/18 15:14 - Infog2 Tecnologia: Na pré venda?
+17/05/18 15:14 - ‪+55 86 9455-1836‬: Na venda mesmo
+17/05/18 15:15 - Infog2 Tecnologia: Provavelmente é só permissão, me conecta pra que eu verifique
+17/05/18 15:15 - ‪+55 86 9455-1836‬: Blz
+17/05/18 15:16 - ‪+55 86 9455-1836‬: 724 308 292
+17/05/18 15:17 - ‪+55 86 9455-1836‬: m597sc
+17/05/18 15:21 - Infog2 Tecnologia: Tenta agora
+17/05/18 15:23 - ‪+55 86 9455-1836‬: Ok
+17/05/18 15:24 - ‪+55 86 9455-1836‬: Blz
+17/05/18 15:26 - Infog2 Tecnologia: Tudo Ok?
+17/05/18 15:33 - ‪+55 86 9455-1836‬: Oi
+17/05/18 15:34 - ‪+55 86 9455-1836‬: Por acaso seria possível uma impressão seguida da outra pelo sistema?
+17/05/18 15:34 - Infog2 Tecnologia: De cupom de venda?
+17/05/18 15:35 - ‪+55 86 9455-1836‬: Não...no caso seria orçamento e venda não fisccal
+17/05/18 15:35 - ‪+55 86 9455-1836‬: Tipo o recibo do sistema
+17/05/18 15:36 - Infog2 Tecnologia: Não entendi muito bem
+17/05/18 15:36 - Infog2 Tecnologia: Quer enviar orçamento e venda pra mesma impressora ?
+17/05/18 15:37 - ‪+55 86 9455-1836‬: Já ta configurada eu queria uma dupla impressao
+17/05/18 15:38 - ‪+55 86 9455-1836‬: No recibo tem um quadrinho que pergunta se eu quero imprimir em du as vias
+17/05/18 15:38 - Infog2 Tecnologia: Aaah
+17/05/18 15:38 - Infog2 Tecnologia: Sim
+17/05/18 15:39 - Infog2 Tecnologia: Ele manda as duas vias para o spool da impressora
+17/05/18 15:39 - Infog2 Tecnologia: Vai ser impresso uma de cada vez
+17/05/18 15:39 - ‪+55 86 9455-1836‬: Certo só que na mesma via e ou folha
+17/05/18 15:40 - Infog2 Tecnologia: Não, São duas impressoe
+17/05/18 15:40 - Infog2 Tecnologia: Impressões
+17/05/18 15:40 - ‪+55 86 9455-1836‬: Por exemplo
+17/05/18 15:52 - ‪+55 86 9455-1836‬: Se eu mandar um orçamento com 3 itens para impressão eu perco metade de uma folha a4
+17/05/18 16:01 - ‪+55 86 9455-1836‬: Teria como fazer duas impressões na mesma folha?

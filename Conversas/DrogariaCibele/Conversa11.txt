@@ -1,0 +1,17 @@
+18/04/18 14:05 - DROGARIA CIBELE - ALVINA: Não. esta na tela
+18/04/18 14:06 - DROGARIA CIBELE - ALVINA: Boa tarde
+18/04/18 14:06 - Infog2 Tecnologia: Boa tarde
+18/04/18 14:06 - Infog2 Tecnologia: Não encontrei backup do sngpc na máquina
+18/04/18 14:07 - DROGARIA CIBELE - ALVINA: e que pode fazer?
+18/04/18 14:08 - Infog2 Tecnologia: Veja com o técnico onde ele fez o backup
+18/04/18 14:11 - Infog2 Tecnologia: Se não for encontrado
+18/04/18 14:11 - Infog2 Tecnologia: Será instalado um banco zerado
+18/04/18 14:13 - DROGARIA CIBELE - ALVINA: o rapaz so volta do almoço. as 15 horas
+18/04/18 14:13 - Infog2 Tecnologia: Certo, o Reinaldo disse que o backup foi feito no HD do seu técnico
+18/04/18 14:13 - Infog2 Tecnologia: Veja com ele onde está
+18/04/18 14:14 - Infog2 Tecnologia: Se estiver lá o backup é só me avisar que eu restauro
+18/04/18 14:16 - DROGARIA CIBELE - ALVINA: estou preocuada se ele não. restaurou
+18/04/18 14:18 - DROGARIA CIBELE - ALVINA: pedi pra ele antes de fazer ligar pra pra. ir pra saber o que podia restaurar
+18/04/18 14:24 - Infog2 Tecnologia: Reinaldo me disse que foi feito, eu só não encontrei
+18/04/18 14:24 - Infog2 Tecnologia: Por isso seria bom ele mostrar onde foi feito
+18/04/18 17:35 - DROGARIA CIBELE - ALVINA: nao abre a tela da venda e a de cadastro do sevidor

@@ -1,0 +1,48 @@
+19/06/18 09:23 - Comercial Pile PIRIPIRI- Vilmara: Bom dia!.
+19/06/18 09:23 - Comercial Pile PIRIPIRI- Vilmara: vilmara aqui
+19/06/18 09:24 - Comercial Pile PIRIPIRI- Vilmara: Gostaria de falar com o Reinaldo
+19/06/18 09:24 - Comercial Pile PIRIPIRI- Vilmara: para tirar uma dúvida quanto aos frios.
+19/06/18 09:25 - Comercial Pile PIRIPIRI- Vilmara: Tem como ele colocar o código 752 e converter para 85?
+19/06/18 09:27 - Infog2 Tecnologia: Bom dia Vilmara
+19/06/18 09:27 - Infog2 Tecnologia: Aqui é Mayllana
+19/06/18 09:27 - Infog2 Tecnologia: Me conecta no teamviewer que eu vou verificar se é possível
+19/06/18 09:30 - Comercial Pile PIRIPIRI- Vilmara: certo
+19/06/18 09:31 - Comercial Pile PIRIPIRI- Vilmara: ID: 127 870 330
+S: 6302
+19/06/18 09:35 - Infog2 Tecnologia: Os dados desse produto 752 você vai colocar no produto de id 85
+19/06/18 09:35 - Infog2 Tecnologia: Já o produto 752 você só inativa
+19/06/18 09:35 - Infog2 Tecnologia: O código 85 é cadastro reservado para isso
+19/06/18 09:35 - Infog2 Tecnologia: Basta editar ele
+19/06/18 09:36 - Comercial Pile PIRIPIRI- Vilmara: Sim. Foi isso que pensei. Porém dar saída em um estoque se torna suspeito. Principalmente na quantidade que há no código 752.
+19/06/18 09:37 - Comercial Pile PIRIPIRI- Vilmara: Acho que vou inativa-lo.
+19/06/18 09:37 - Comercial Pile PIRIPIRI- Vilmara: Mecher no estoque é uma ação não recomendável
+19/06/18 09:38 - Infog2 Tecnologia: Se já colocou estoque no 752, você terá de reajustar
+19/06/18 09:39 - Infog2 Tecnologia: E depois colocar esse estoque no 85
+19/06/18 09:39 - Infog2 Tecnologia: Primeiro você vai editar o 85  e colocar as informações
+19/06/18 09:39 - Infog2 Tecnologia: Depois inativa o 752
+19/06/18 09:40 - Infog2 Tecnologia: Depois vai retirar o estoque relacionado ao 752
+19/06/18 09:40 - Infog2 Tecnologia: E colocar no 85
+19/06/18 09:41 - Comercial Pile PIRIPIRI- Vilmara: Não é bem assim que funciona Srta. Não posso tirar um estoque de um código. Que isto se refere a dar saída. Mesmo que seja transferência. Como estoque mesmo já está errado. Vou apenas inativar o código 752, e utilizar o código 85
+19/06/18 09:41 - Comercial Pile PIRIPIRI- Vilmara: Não.
+19/06/18 09:41 - Comercial Pile PIRIPIRI- Vilmara: Obrigada de qualquer forma.
+19/06/18 09:41 - Comercial Pile PIRIPIRI- Vilmara: Bom dia !.
+19/06/18 09:43 - Infog2 Tecnologia: Certo. Só uma ressalva, se o estoque já foi colocado no 752 ele não vai aparecer quando for vender o 85
+19/06/18 09:43 - Infog2 Tecnologia: Por isso a necessidade de tirar o estoque
+19/06/18 09:43 - Infog2 Tecnologia: Mas fica a seu critério
+19/06/18 09:43 - Infog2 Tecnologia: Se precisar de ajuda
+19/06/18 09:43 - Infog2 Tecnologia: É só chamar
+19/06/18 09:44 - Comercial Pile PIRIPIRI- Vilmara: Eu sei. Por isso que antes de lançar a nota resolvi tirar a dúvida. O estoque do código 752ja existia. Foi antes do Reinaldo cadastrar. Porém o Leo esqueceu de emitir a ele este código
+19/06/18 09:44 - Comercial Pile PIRIPIRI- Vilmara: Obrigada!!
+19/06/18 09:44 - Infog2 Tecnologia: Bom dia
+19/06/18 11:37 - Comercial Pile PIRIPIRI- Vilmara: <Arquivo de mídia oculto>
+19/06/18 11:38 - Infog2 Tecnologia: Bom dia
+19/06/18 11:38 - Infog2 Tecnologia: Esse erro é de comunicação com a impressora
+19/06/18 11:38 - Infog2 Tecnologia: Fecha o pdv por completo
+19/06/18 11:38 - Comercial Pile PIRIPIRI- Vilmara: Sim.
+19/06/18 11:38 - Infog2 Tecnologia: Desliga a impressora
+19/06/18 11:38 - Infog2 Tecnologia: Ligue novamente
+19/06/18 11:38 - Comercial Pile PIRIPIRI- Vilmara: Já fiz isso.
+19/06/18 11:38 - Infog2 Tecnologia: Pra que volte a comunicar
+19/06/18 11:39 - Comercial Pile PIRIPIRI- Vilmara: Já fiz isso.
+19/06/18 11:42 - Infog2 Tecnologia: Me passe o teamviewer
+19/06/18 11:42 - Infog2 Tecnologia: Vou verificar

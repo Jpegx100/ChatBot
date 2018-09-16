@@ -1,0 +1,22 @@
+30/06/18 08:22 - Infog2 Tecnologia: Bom dia Vilmara
+30/06/18 08:22 - Infog2 Tecnologia: é Mayllana
+30/06/18 08:23 - Infog2 Tecnologia: O problema que ficou pendente ontem, ainda persiste?
+30/06/18 08:39 - Comercial Pile PIRIPIRI- Vilmara: Digamos que ocorre de forma imprevisível.
+30/06/18 08:39 - Comercial Pile PIRIPIRI- Vilmara: Bom dia Mayllana
+30/06/18 08:44 - Infog2 Tecnologia: Certo, e quanto ao novo servidor?
+30/06/18 08:44 - Infog2 Tecnologia: Esse precisa ser trocado, as outras máquinas acessam o sistema por ele
+30/06/18 08:47 - Comercial Pile PIRIPIRI- Vilmara: Na verdade é primeiro caixa que transfere acesso aos demais. Este aí é apenas para lançamento de notas e cadastramento de produtos. Só usamos para esta finalidade.
+30/06/18 08:48 - Infog2 Tecnologia: não, A máquina que vem dando problemas constantemente é o servidor
+30/06/18 08:49 - Infog2 Tecnologia: Já vimos ontem que ela precisa ser substituída
+30/06/18 08:49 - Infog2 Tecnologia: os problemas nas outras máquinas podem estar acontecendo por causa dela
+30/06/18 08:49 - Infog2 Tecnologia: é nela que fica o banco de dados que as outras máquinas acessam
+30/06/18 08:50 - Comercial Pile PIRIPIRI- Vilmara: Não moça. Na verdade todos estão dando problema. E já o computador "mãe " já foi verificado. Ele apresenta outro tipo de erro. Ontem inclusive passei o que estava acontecendo, e eles já foram verificado. Falta apenas este último aí.
+30/06/18 08:51 - Infog2 Tecnologia: Só  me informe quando a máquina nova for comprada
+30/06/18 08:51 - Comercial Pile PIRIPIRI- Vilmara: Este aqui no caso.
+30/06/18 08:51 - Infog2 Tecnologia: pra que eu possa colocá-la como servidor.
+30/06/18 08:52 - Comercial Pile PIRIPIRI- Vilmara: Então no caso teremos que trocar então são os dois ?.tanto do escritório,como também o do caixa principal, ou seja o computador "mãe "?.
+30/06/18 08:53 - Infog2 Tecnologia: O servidor precisa ser trocado
+30/06/18 08:54 - Infog2 Tecnologia: as outras máquinas basta ir pra manutenção
+30/06/18 08:54 - Infog2 Tecnologia: Mas primeiro o servidor precisa ser trocado
+30/06/18 09:12 - Comercial Pile PIRIPIRI- Vilmara: Ok
+30/06/18 11:22 - Infog2 Tecnologia: <Arquivo de mídia oculto>

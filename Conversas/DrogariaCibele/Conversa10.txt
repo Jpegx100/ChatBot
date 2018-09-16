@@ -1,0 +1,28 @@
+17/04/18 13:14 - DROGARIA CIBELE - ALVINA: Id 925895287
+17/04/18 13:15 - DROGARIA CIBELE - ALVINA: senha 4839
+17/04/18 13:19 - Infog2 Tecnologia: Boa tarde
+17/04/18 13:19 - Infog2 Tecnologia: Em que posso ajudar?
+17/04/18 13:19 - DROGARIA CIBELE - ALVINA: o computador foi formatado
+17/04/18 13:20 - DROGARIA CIBELE - ALVINA: o rapaz que formatou ja falou com alguem da ir
+17/04/18 13:21 - Infog2 Tecnologia: Ok
+17/04/18 13:26 - Infog2 Tecnologia: A senha está incorreta
+17/04/18 13:36 - DROGARIA CIBELE - ALVINA: senha 1927
+17/04/18 13:58 - Infog2 Tecnologia: Essa máquina é o servidor
+17/04/18 13:59 - Infog2 Tecnologia: ?
+17/04/18 14:18 - DROGARIA CIBELE - ALVINA: sim
+17/04/18 14:58 - Infog2 Tecnologia: Me passe o teamviewer da outra maquina
+17/04/18 15:18 - Infog2 Tecnologia: O seu Banco de dados não foi recuperado
+17/04/18 15:18 - Infog2 Tecnologia: Me passe o teamviewer da outra maquina
+17/04/18 15:18 - Infog2 Tecnologia: Vou procurar algum backul
+17/04/18 15:18 - Infog2 Tecnologia: Backup
+17/04/18 15:18 - Infog2 Tecnologia: Dona Alvina?
+17/04/18 16:10 - Infog2 Tecnologia: Liguei pra drogaria pra conectar nas outras maquinas
+17/04/18 16:10 - Infog2 Tecnologia: Mas disseram ser só com a senhora.
+17/04/18 16:11 - Infog2 Tecnologia: O atendimento está pausado, quando estiver na drogaria me avise pra continuar o atendimento
+17/04/18 16:29 - DROGARIA CIBELE - ALVINA: outra maquina id 556177324
+17/04/18 16:29 - DROGARIA CIBELE - ALVINA: w458ed
+17/04/18 16:41 - DROGARIA CIBELE - ALVINA: corrigindo a senha w459ed
+17/04/18 17:14 - Infog2 Tecnologia: Pronto
+17/04/18 17:14 - Infog2 Tecnologia: A Sra já pode usar o sistema
+17/04/18 17:15 - Infog2 Tecnologia: Já foi reconfigurado
+17/04/18 17:20 - DROGARIA CIBELE - ALVINA: e o sngpc

@@ -1,0 +1,16 @@
+03/05/18 08:39 - ‪+55 86 9455-1836‬: Bom dia
+03/05/18 08:39 - Infog2 Tecnologia: Bom dia
+03/05/18 08:39 - ‪+55 86 9455-1836‬: Aqui é Fernando do lar do construtor
+03/05/18 08:39 - ‪+55 86 9455-1836‬: Preciso de atendimento
+03/05/18 08:41 - Infog2 Tecnologia: Qual o atendimento?
+03/05/18 09:11 - ‪+55 86 9455-1836‬: Impressao
+03/05/18 09:11 - ‪+55 86 9455-1836‬: E transferência
+03/05/18 09:14 - Infog2 Tecnologia: Qual o problema com as impressões?
+03/05/18 09:39 - ‪+55 86 9455-1836‬: Preciso de configuração do sistema para a impressora 1020 mfsp kyocera e saber como consultar o estoque do deposito e imprimir a transferência do deposito p/loja e vice versa
+03/05/18 09:40 - Infog2 Tecnologia: Basta que a impressora esteja instalada na máquina, que irá imprimir pelo sistema
+03/05/18 09:41 - Infog2 Tecnologia: O estoque você pode ver pelo pluspdvSg>> Movimentação >> Consulta de estoque
+03/05/18 09:42 - Infog2 Tecnologia: Lá tem a opção de escolher a empresa, basta selecionar o depósito e clicar em pesquisar
+03/05/18 09:59 - ‪+55 86 9455-1836‬: Blz
+03/05/18 11:25 - ‪+55 86 9455-1836‬: E como faço a impressão da transferência?
+03/05/18 11:29 - Infog2 Tecnologia: Pelos relatórios
+03/05/18 11:30 - Infog2 Tecnologia: Tem um relatório como nome *Saídas*

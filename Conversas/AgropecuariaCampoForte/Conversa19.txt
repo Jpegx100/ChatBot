@@ -1,0 +1,9 @@
+03/07/18 14:39 - AGROPECUÁRIA CAMPO FORTE - IGOR: <Arquivo de mídia oculto>
+03/07/18 14:39 - AGROPECUÁRIA CAMPO FORTE - IGOR: Boa tarde, qual razão desse erro?
+03/07/18 14:50 - Infog2 Tecnologia: boa tarde. As cadeias do certificado não foram instaladas
+03/07/18 14:50 - Infog2 Tecnologia: Me conecta no teamviewer
+03/07/18 14:50 - Infog2 Tecnologia: que eu verifico
+03/07/18 14:51 - AGROPECUÁRIA CAMPO FORTE - IGOR: <Arquivo de mídia oculto>
+03/07/18 15:07 - Infog2 Tecnologia: Pronto, cadeias instaladas
+03/07/18 15:36 - AGROPECUÁRIA CAMPO FORTE - IGOR: Obrigado
+03/07/18 15:38 - Infog2 Tecnologia: Por nada!  Boa tarde

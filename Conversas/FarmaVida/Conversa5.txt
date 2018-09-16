@@ -1,0 +1,24 @@
+19/03/18 09:53 - DROGARIA FARMAVIDA: Bom dia
+19/03/18 09:53 - DROGARIA FARMAVIDA: Não encontrei
+19/03/18 09:53 - Infog2 Tecnologia: Bom dia, te enviei um arquivo word
+19/03/18 09:53 - Infog2 Tecnologia: solicitando alguns dados
+19/03/18 09:56 - Infog2 Tecnologia: Vou te reenviar o email, por favor salve. A infog2 não se responsabiliza por estes dados
+19/03/18 09:58 - Infog2 Tecnologia: Enviado
+19/03/18 10:26 - DROGARIA FARMAVIDA: Com que falo?
+19/03/18 10:58 - DROGARIA FARMAVIDA: Não recebi
+19/03/18 10:59 - DROGARIA FARMAVIDA: Ok
+19/03/18 10:59 - DROGARIA FARMAVIDA: Obrigada
+19/03/18 11:01 - Infog2 Tecnologia: Recebeu?
+19/03/18 11:01 - Infog2 Tecnologia: EU tive que reenviar
+19/03/18 11:02 - DROGARIA FARMAVIDA: Sim
+19/03/18 11:02 - DROGARIA FARMAVIDA: Obrigado
+19/03/18 11:02 - Infog2 Tecnologia: Por nada
+19/03/18 11:53 - DROGARIA FARMAVIDA: Oi, vc sabe me dizer como faço pra inserir um produto no sngpc depois que a nota já foi lançada?
+19/03/18 11:53 - Infog2 Tecnologia: Na mesma entrada?
+19/03/18 11:53 - Infog2 Tecnologia: Voce pode tentar fazer outra entrada com mesmo número, incluindo somente este produto faltoso
+19/03/18 11:53 - DROGARIA FARMAVIDA: Não deu certo
+19/03/18 11:54 - Infog2 Tecnologia: Se não der certo, tem que excluir a entrada
+19/03/18 11:54 - Infog2 Tecnologia: e refazer
+19/03/18 11:55 - DROGARIA FARMAVIDA: Mas é do mês de dezembro
+19/03/18 11:55 - Infog2 Tecnologia: Só voltando os dias então
+19/03/18 11:57 - DROGARIA FARMAVIDA: Ok, obrigada

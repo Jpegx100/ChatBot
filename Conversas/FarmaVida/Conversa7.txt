@@ -1,0 +1,14 @@
+02/04/18 14:49 - DROGARIA FARMAVIDA: Pi
+02/04/18 14:49 - DROGARIA FARMAVIDA: Oi
+02/04/18 14:50 - DROGARIA FARMAVIDA: <Arquivo de mídia oculto>
+02/04/18 14:50 - DROGARIA FARMAVIDA: Esse é pra instalar a pré venda
+02/04/18 14:50 - DROGARIA FARMAVIDA: <Arquivo de mídia oculto>
+02/04/18 14:50 - DROGARIA FARMAVIDA: Esse é do servidor
+02/04/18 15:04 - Infog2 Tecnologia: Boa tarde
+02/04/18 15:04 - Infog2 Tecnologia: as máquinas não estão na mesma rede
+02/04/18 15:04 - DROGARIA FARMAVIDA: Boa tarde
+02/04/18 15:04 - DROGARIA FARMAVIDA: Estão
+02/04/18 15:06 - Infog2 Tecnologia: não estão, uma máquina está com ip 10.0.0.5, a outra está em 192.168.1.5
+02/04/18 15:11 - DROGARIA FARMAVIDA: Vou v com rapaz e retorno
+02/04/18 15:12 - DROGARIA FARMAVIDA: Obrigada
+02/04/18 15:13 - Infog2 Tecnologia: ok

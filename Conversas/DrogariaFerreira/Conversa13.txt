@@ -1,0 +1,15 @@
+23/05/18 14:07 - DROGARIA FERREIRA - STA CRUZ - KELLY: Boa tarde
+23/05/18 14:08 - DROGARIA FERREIRA - STA CRUZ - KELLY: No meu sistema sumiu todo meu estoque
+23/05/18 14:08 - DROGARIA FERREIRA - STA CRUZ - KELLY: Todo o estoque está zerado
+23/05/18 14:15 - Infog2 Tecnologia: Boa tarde! Lislayne aqui!
+23/05/18 14:16 - Infog2 Tecnologia: tem como me conectar para que eu veja?
+23/05/18 14:23 - DROGARIA FERREIRA - STA CRUZ - KELLY: Boa tarde
+23/05/18 14:24 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+23/05/18 14:27 - Infog2 Tecnologia: Seu estoque esta aqui
+23/05/18 14:27 - Infog2 Tecnologia: olhe la no computador
+23/05/18 14:28 - DROGARIA FERREIRA - STA CRUZ - KELLY: Esses aí é que eu fui colocando pq tudo que dei entrada e foi digitado não está
+23/05/18 14:29 - Infog2 Tecnologia: Vc notou que sumiu quando??
+23/05/18 14:29 - DROGARIA FERREIRA - STA CRUZ - KELLY: E esses aí é da mercadoria que chegou a  2 dias atrás
+23/05/18 14:29 - DROGARIA FERREIRA - STA CRUZ - KELLY: Ontem quando fui fazer venda pela manhã
+23/05/18 14:29 - Infog2 Tecnologia: vou olhar no log o que foi feito
+23/05/18 14:30 - DROGARIA FERREIRA - STA CRUZ - KELLY: Ok

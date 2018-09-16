@@ -1,0 +1,8 @@
+15/05/18 16:04 - ‪+55 86 9455-1836‬: Quero deletar alguns produtos que não trabalho mais qual o procesimento
+15/05/18 16:05 - ‪+55 86 9455-1836‬: Procedimento
+15/05/18 16:05 - Infog2 Tecnologia: Alguns produtos não podem ser excluídos
+15/05/18 16:05 - ‪+55 86 9455-1836‬: Percebi
+15/05/18 16:05 - Infog2 Tecnologia: Você pode inativar
+15/05/18 16:05 - Infog2 Tecnologia: Abre o cadastro do produto, edita
+15/05/18 16:06 - Infog2 Tecnologia: Tem um campo com nome ativo, basta desmarcar a caixa e salvar
+15/05/18 16:06 - ‪+55 86 9455-1836‬: Ok vou testar obrigado

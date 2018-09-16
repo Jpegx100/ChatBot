@@ -1,0 +1,14 @@
+30/04/18 08:27 - DROGARIA FARMAVIDA: Bom dia
+30/04/18 08:27 - DROGARIA FARMAVIDA: A farmácia popular está aparecendo msg
+30/04/18 08:28 - Infog2 Tecnologia: Bom dia, qual mensagem?
+30/04/18 08:35 - DROGARIA FARMAVIDA: Diz que o valor não está compatível
+30/04/18 08:36 - DROGARIA FARMAVIDA: Mais não mudamos nada
+30/04/18 08:37 - Infog2 Tecnologia: Saiu uma lista com novos preços do farmácia popular que passam a vigorar hoje
+30/04/18 08:48 - DROGARIA FARMAVIDA: Como faço pra atualizar?
+30/04/18 08:52 - DROGARIA FARMAVIDA: Acabei de receber por e-mail
+30/04/18 08:52 - DROGARIA FARMAVIDA: Obrigada
+30/04/18 09:00 - Infog2 Tecnologia: Por nada! bom dia
+30/04/18 11:18 - DROGARIA FARMAVIDA: <Arquivo de mídia oculto>
+30/04/18 11:18 - Infog2 Tecnologia: O valor da losartana foi alterada, segundo o arquivo enviado
+30/04/18 11:18 - Infog2 Tecnologia: você precisa mudar no sistema da farmácia e também no sistema farmácia popular
+30/04/18 11:19 - Infog2 Tecnologia: pelo farmácia popular vá em Utilitários >> Cadastro de produtos

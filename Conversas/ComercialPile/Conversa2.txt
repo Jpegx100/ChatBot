@@ -1,0 +1,17 @@
+12/05/18 09:05 - Comercial Pile PIRIPIRI- Vilmara: Bom dia. Sou funcionária do comércio o Pile. Como faço para excluir intens que não consta no nosso estoque e não vem mais ?.
+12/05/18 09:05 - Infog2 Tecnologia: Seja bem-vindo(a) a Infog2 Tecnologia! Estamos ansiosos para atendê-lo(a).
+12/05/18 09:06 - Infog2 Tecnologia: Bom dia
+12/05/18 09:06 - Infog2 Tecnologia: Os produtos não podem ser excluídos pois iria interferir nos relatórios.
+12/05/18 09:07 - Infog2 Tecnologia: O que você deve fazer é inativar o produto
+12/05/18 09:07 - Infog2 Tecnologia: No cadastro do produto tem um campo com nome ativo, basta desmarcar essa caixa
+12/05/18 09:08 - Comercial Pile PIRIPIRI- Vilmara: E caso tenha em cadastro dois dos mesmos intens. Sendo que um dos mesmo consta o código de barra. E o outro foi cadastrado sem?.
+12/05/18 09:08 - Comercial Pile PIRIPIRI- Vilmara: Ele some da lista de busca de intens ?.
+12/05/18 09:08 - Infog2 Tecnologia: Sim
+12/05/18 09:09 - Infog2 Tecnologia: São dois cadastros, se quer inativar os dois vai ter que abrir cada cadastro
+12/05/18 09:10 - Comercial Pile PIRIPIRI- Vilmara: <Arquivo de mídia oculto>
+12/05/18 09:12 - Infog2 Tecnologia: Então é só abrir o cadastro que está sem o código
+12/05/18 09:12 - Comercial Pile PIRIPIRI- Vilmara: Certo.
+12/05/18 13:22 - Comercial Pile PIRIPIRI- Vilmara: Por favor. Me envie seu e-mail para eu encaminhar a planilha de frios.
+12/05/18 13:22 - Infog2 Tecnologia: Olá, agradecemos por sua mensagem. Não estamos disponíveis no momento, mas respoderemos assim que retornarmos.
+12/05/18 13:23 - Infog2 Tecnologia: reinaldo@infog2.com.br
+12/05/18 13:24 - Comercial Pile PIRIPIRI- Vilmara: Obrigada!.

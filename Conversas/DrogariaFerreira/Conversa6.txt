@@ -1,0 +1,76 @@
+12/04/18 14:35 - DROGARIA FERREIRA - STA CRUZ - KELLY: Quando pede essa senha
+12/04/18 14:35 - DROGARIA FERREIRA - STA CRUZ - KELLY: E mesma que abro sistema
+12/04/18 14:36 - DROGARIA FERREIRA - STA CRUZ - KELLY: No caso 2
+12/04/18 14:37 - Infog2 Tecnologia: Boa tarde
+12/04/18 14:37 - Infog2 Tecnologia: O usuário e senha foram passados?
+12/04/18 14:39 - DROGARIA FERREIRA - STA CRUZ - KELLY: 2 e 2
+12/04/18 14:40 - DROGARIA FERREIRA - STA CRUZ - KELLY: Mesmo que abro sistema
+12/04/18 14:40 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+12/04/18 14:41 - Infog2 Tecnologia: Sim
+13/04/18 15:41 - DROGARIA FERREIRA - STA CRUZ - KELLY: Produto cadastrado , mais não aparece na pesquisa
+13/04/18 15:41 - DROGARIA FERREIRA - STA CRUZ - KELLY: Outra coisa , pesquisando pelo princípio ativo não aparece
+13/04/18 15:42 - DROGARIA FERREIRA - STA CRUZ - KELLY: Tipo esse se eu colocar itraconazol não aparece que tenho estoque
+13/04/18 15:42 - Infog2 Tecnologia: Boa tarde
+13/04/18 15:43 - Infog2 Tecnologia: Vou abrir um chamado para que um dos técnicos possa verificar
+13/04/18 15:43 - DROGARIA FERREIRA - STA CRUZ - KELLY: Esperando
+13/04/18 15:43 - DROGARIA FERREIRA - STA CRUZ - KELLY: Sistema confuso , pra quem não sabe
+13/04/18 15:44 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+13/04/18 15:44 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+13/04/18 15:50 - Infog2 Tecnologia: Me passe id e senha do teamviewer que vou lhe acompanhar
+13/04/18 15:55 - DROGARIA FERREIRA - STA CRUZ - KELLY: Tem Net não
+13/04/18 15:55 - DROGARIA FERREIRA - STA CRUZ - KELLY: Nem esse aplicativo baixado
+13/04/18 15:56 - DROGARIA FERREIRA - STA CRUZ - KELLY: Baixar ainda
+13/04/18 15:58 - Infog2 Tecnologia: Está sem internet? pra te acompanhar e verificar preciso que conecte na internet pra que eu possa verificar.
+13/04/18 15:58 - DROGARIA FERREIRA - STA CRUZ - KELLY: Estou baixando
+13/04/18 15:58 - DROGARIA FERREIRA - STA CRUZ - KELLY: Net lenta
+13/04/18 15:58 - DROGARIA FERREIRA - STA CRUZ - KELLY: Jaja
+13/04/18 16:02 - Infog2 Tecnologia: ok
+13/04/18 16:11 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+13/04/18 16:12 - Infog2 Tecnologia: Estou conectada, qual a sua dúvida?
+13/04/18 16:12 - DROGARIA FERREIRA - STA CRUZ - KELLY: Veja vídeo
+13/04/18 16:13 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+13/04/18 16:13 - DROGARIA FERREIRA - STA CRUZ - KELLY: Sendo que esse traxonol e mesma itraconazol
+13/04/18 16:14 - DROGARIA FERREIRA - STA CRUZ - KELLY: Coloco itraconazol não aparece esse traxonol
+13/04/18 16:15 - Infog2 Tecnologia: Me manda a foto da caixa do medicamento
+13/04/18 16:15 - DROGARIA FERREIRA - STA CRUZ - KELLY: Esse
+13/04/18 16:16 - Infog2 Tecnologia: Me manda uma foto do código de barras do produto
+13/04/18 16:16 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+13/04/18 16:18 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+13/04/18 16:22 - Infog2 Tecnologia: O sistema funciona dessa forma, acontece que esse produto está inativo.
+13/04/18 16:22 - Infog2 Tecnologia: Estou ativando o cadastro de todos os produtos
+13/04/18 16:22 - Infog2 Tecnologia: Pode verificar o teamviewer?
+13/04/18 16:23 - Infog2 Tecnologia: Não consigo conectar
+13/04/18 16:28 - DROGARIA FERREIRA - STA CRUZ - KELLY: Sem Net
+13/04/18 16:37 - DROGARIA FERREIRA - STA CRUZ - KELLY: Voltou
+13/04/18 16:37 - DROGARIA FERREIRA - STA CRUZ - KELLY: Pode acessar
+13/04/18 16:38 - Infog2 Tecnologia: Fecha o teamviewer e abre de novo?
+13/04/18 16:38 - DROGARIA FERREIRA - STA CRUZ - KELLY: Ok
+13/04/18 16:38 - DROGARIA FERREIRA - STA CRUZ - KELLY: <Arquivo de mídia oculto>
+13/04/18 16:40 - Infog2 Tecnologia: Pronto
+13/04/18 16:40 - Infog2 Tecnologia: Pesquisa o produto
+13/04/18 16:41 - DROGARIA FERREIRA - STA CRUZ - KELLY: Um método de pesquisa mais prático
+13/04/18 16:41 - DROGARIA FERREIRA - STA CRUZ - KELLY: Que aparece os produtos é estoque ao mesmo tempo
+13/04/18 16:41 - Infog2 Tecnologia: Mas está mostrando
+13/04/18 16:42 - DROGARIA FERREIRA - STA CRUZ - KELLY: Tem como o produto entrar automaticamente sem precisar pressionar enter na venda
+13/04/18 16:42 - DROGARIA FERREIRA - STA CRUZ - KELLY: Mais esse modo de pesquisa e na parte de caixa
+13/04/18 16:43 - DROGARIA FERREIRA - STA CRUZ - KELLY: Nessa parte onde fica cadastro essas coisas do tipo , uma pesquisa que inclui tudo
+13/04/18 16:44 - Infog2 Tecnologia: No outro é gerenciamento. Você pode ver o estoque dos produtos pela consulta de estoque ou pelo relatório
+13/04/18 16:44 - DROGARIA FERREIRA - STA CRUZ - KELLY: Mais queria ficar pesquisa e não saindo como folha ou em PDF entende
+13/04/18 16:45 - Infog2 Tecnologia: Então use a consulta. MOVIMENTAÇÃO 》 CONSULTA DE ESTOQUE
+13/04/18 16:46 - DROGARIA FERREIRA - STA CRUZ - KELLY: Ok
+13/04/18 16:47 - DROGARIA FERREIRA - STA CRUZ - KELLY: O estoque só sai essa maneira aí completa ?
+13/04/18 16:48 - Infog2 Tecnologia: Sim
+13/04/18 16:49 - DROGARIA FERREIRA - STA CRUZ - KELLY: Ok
+13/04/18 16:49 - DROGARIA FERREIRA - STA CRUZ - KELLY: ?
+13/04/18 16:49 - Infog2 Tecnologia: Sim, se consutar pelo código de barras
+13/04/18 16:50 - DROGARIA FERREIRA - STA CRUZ - KELLY: Ele não entra
+13/04/18 16:50 - DROGARIA FERREIRA - STA CRUZ - KELLY: Vou bipar
+13/04/18 16:52 - Infog2 Tecnologia: Acessa de novo
+13/04/18 16:53 - DROGARIA FERREIRA - STA CRUZ - KELLY: Deu certo
+13/04/18 16:53 - DROGARIA FERREIRA - STA CRUZ - KELLY: Obrigado
+13/04/18 16:53 - DROGARIA FERREIRA - STA CRUZ - KELLY: Por enquanto é só
+13/04/18 16:55 - DROGARIA FERREIRA - STA CRUZ - KELLY: Posso encerrar?
+13/04/18 16:55 - Infog2 Tecnologia: Precisa de algo mais?
+13/04/18 16:55 - DROGARIA FERREIRA - STA CRUZ - KELLY: Nao
+13/04/18 16:56 - Infog2 Tecnologia: Ok, tenha uma boa tarde
+13/04/18 16:56 - DROGARIA FERREIRA - STA CRUZ - KELLY: Boa tarde

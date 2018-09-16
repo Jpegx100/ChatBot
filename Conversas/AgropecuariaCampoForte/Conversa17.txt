@@ -1,0 +1,11 @@
+18/06/18 14:52 - AGROPECUÁRIA CAMPO FORTE - IGOR: Boa tarde, estou precisando fazer reajuste de preços em determinada seção de produtos. Como vai se comportar o preço dos produtos fracionados( UND) ? Vão permanecer o mesmo ou reajustar na mesma proporção?
+18/06/18 15:00 - Infog2 Tecnologia: Boa tarde
+18/06/18 15:00 - Infog2 Tecnologia: Por qual local vc quer fazer este reajuste??
+18/06/18 15:29 - AGROPECUÁRIA CAMPO FORTE - IGOR: seção de medicamentos, nos produtos de caixa/unidade quando faço reajuste manual o preço da fração cai devido o valor de fração ser superior ao de caixa.
+18/06/18 15:53 - Infog2 Tecnologia: Ainda não entendi... vc tá alterado lá em cadastro de produtos???
+18/06/18 16:19 - AGROPECUÁRIA CAMPO FORTE - IGOR: <Arquivo de mídia oculto>
+18/06/18 16:51 - Infog2 Tecnologia: Entendi
+18/06/18 16:52 - Infog2 Tecnologia: Um.minuto
+18/06/18 16:52 - Infog2 Tecnologia: <Arquivo de mídia oculto>
+18/06/18 16:53 - Infog2 Tecnologia: <Arquivo de mídia oculto>
+18/06/18 17:19 - AGROPECUÁRIA CAMPO FORTE - IGOR: Obrigado
