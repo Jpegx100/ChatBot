@@ -1,0 +1,72 @@
+
+16/07/18 08:44 - DIRCEU VARIEDADES - TERESINA: Chamada de voz perdida
+16/07/18 08:43 - DIRCEU VARIEDADES - TERESINA: <Arquivo de mídia oculto>
+16/07/18 08:43 - DIRCEU VARIEDADES - TERESINA: Não estou abrindo o plus em nenhum pc
+16/07/18 14:32 - DIRCEU VARIEDADES - TERESINA: <Arquivo de mídia oculto>
+16/07/18 14:58 - Infog2 Tecnologia: Boa tarde Elisângela
+16/07/18 14:58 - Infog2 Tecnologia: É Mayllana
+16/07/18 14:59 - Infog2 Tecnologia: Qual relatório apresentou esse erro?
+16/07/18 14:59 - DIRCEU VARIEDADES - TERESINA: Vendas do dia
+16/07/18 14:59 - Infog2 Tecnologia: Me conecta no teamviewer
+16/07/18 14:59 - DIRCEU VARIEDADES - TERESINA: <Arquivo de mídia oculto>
+16/07/18 15:00 - Infog2 Tecnologia: Esse usuário devia estar aberto no caixa que teve que ir pra manutenção
+16/07/18 15:00 - Infog2 Tecnologia: Nesse caso posso fechar o caixa direto pelo banco
+16/07/18 15:01 - DIRCEU VARIEDADES - TERESINA: Tá certo
+16/07/18 15:01 - DIRCEU VARIEDADES - TERESINA: Estou reiniciado e mando já
+16/07/18 15:02 - Infog2 Tecnologia: Ok
+16/07/18 15:05 - DIRCEU VARIEDADES - TERESINA: <Arquivo de mídia oculto>
+16/07/18 15:07 - Infog2 Tecnologia: Somente vendas de hoje ?
+16/07/18 15:07 - DIRCEU VARIEDADES - TERESINA: Abre o cx 8
+16/07/18 15:08 - Infog2 Tecnologia: Vou ver o relatório primeiro
+16/07/18 15:08 - Infog2 Tecnologia: Qual relatório você usou?
+16/07/18 15:10 - DIRCEU VARIEDADES - TERESINA: Esse é o que vejo se foi pra receita?
+16/07/18 15:10 - Infog2 Tecnologia: É por caixa, quais usuários usa pra fazer vendas fiscais?
+16/07/18 15:11 - DIRCEU VARIEDADES - TERESINA: 3
+16/07/18 15:11 - Infog2 Tecnologia: Somente ?
+16/07/18 15:11 - DIRCEU VARIEDADES - TERESINA: Só
+16/07/18 15:11 - DIRCEU VARIEDADES - TERESINA: O 8 é lion
+16/07/18 15:16 - Infog2 Tecnologia: É esse aqui
+16/07/18 15:18 - DIRCEU VARIEDADES - TERESINA: Maylana
+16/07/18 15:18 - Infog2 Tecnologia: Oi
+16/07/18 15:18 - DIRCEU VARIEDADES - TERESINA: Eduardo aqui
+16/07/18 15:18 - Infog2 Tecnologia: Boa tarde
+16/07/18 15:18 - DIRCEU VARIEDADES - TERESINA: Boa tarde
+16/07/18 15:18 - Infog2 Tecnologia: Em que posso ajudar?
+16/07/18 15:19 - DIRCEU VARIEDADES - TERESINA: Não tô conseguindo abrir o caixa nos outros computadores
+16/07/18 15:19 - Infog2 Tecnologia: Qual a mensagem?
+16/07/18 15:19 - DIRCEU VARIEDADES - TERESINA: Esta usuário esta aberto em outro caixa
+16/07/18 15:19 - Infog2 Tecnologia: Qual usuário?
+16/07/18 15:19 - DIRCEU VARIEDADES - TERESINA: 3e8
+16/07/18 15:19 - DIRCEU VARIEDADES - TERESINA: No da impressora abre normal
+16/07/18 15:20 - DIRCEU VARIEDADES - TERESINA: Mas nos outros computadores não abre
+16/07/18 15:20 - Infog2 Tecnologia: O 3 e 8 serão usados em qual máquina?
+16/07/18 15:20 - Infog2 Tecnologia: Eles estão associados a um mac
+16/07/18 15:20 - DIRCEU VARIEDADES - TERESINA: Nenhum
+16/07/18 15:20 - Infog2 Tecnologia: ?
+16/07/18 15:20 - DIRCEU VARIEDADES - TERESINA: Nenhuma
+16/07/18 15:21 - Infog2 Tecnologia: Você está tentando abrir em qual máquina?
+16/07/18 15:21 - DIRCEU VARIEDADES - TERESINA: Nessa que esta mexendo
+16/07/18 15:21 - Infog2 Tecnologia: Ok
+16/07/18 15:23 - Infog2 Tecnologia: O usuário 3 não é  o usado no fiscal?
+16/07/18 15:23 - DIRCEU VARIEDADES - TERESINA: É
+16/07/18 15:23 - Infog2 Tecnologia: Lá no fiscal tá conseguindo abrir com o 3?
+16/07/18 15:23 - DIRCEU VARIEDADES - TERESINA: Sim
+16/07/18 15:23 - DIRCEU VARIEDADES - TERESINA: Esta abrindo todos
+16/07/18 15:24 - Infog2 Tecnologia: Então só o 8 que não abre aqui?
+16/07/18 15:24 - DIRCEU VARIEDADES - TERESINA: E nem o 3
+16/07/18 15:24 - DIRCEU VARIEDADES - TERESINA: Nessa maquina não abre nenhum caixa
+16/07/18 15:24 - Infog2 Tecnologia: Se o 3 já está aberto Lá, não tem como usar ele aqui
+16/07/18 15:24 - DIRCEU VARIEDADES - TERESINA: La tá tufo fechado
+16/07/18 15:24 - Infog2 Tecnologia: Vou deixar o 8 configurado aqui
+16/07/18 15:24 - DIRCEU VARIEDADES - TERESINA: Fechei pra ver se  era isso
+16/07/18 15:24 - DIRCEU VARIEDADES - TERESINA: Tá bom
+16/07/18 15:25 - Infog2 Tecnologia: Tente acessar com o 8 aqui
+16/07/18 15:26 - DIRCEU VARIEDADES - TERESINA: Pronto
+16/07/18 15:27 - Infog2 Tecnologia: Precisa de algo mais?
+16/07/18 15:28 - DIRCEU VARIEDADES - TERESINA: Só isso mesmo
+16/07/18 15:29 - Infog2 Tecnologia: Ok! Pode ver com a D. Elisangela, sobre o relatório?
+16/07/18 15:29 - DIRCEU VARIEDADES - TERESINA: Obrigado
+16/07/18 15:29 - DIRCEU VARIEDADES - TERESINA: Já disse aqui pra ela
+16/07/18 15:30 - Infog2 Tecnologia: Ok!
+16/07/18 15:31 - DIRCEU VARIEDADES - TERESINA: Maylana falo já com vc...Eduardo que é agoniado...deixa ele sair do escritorio
+16/07/18 15:33 - Infog2 Tecnologia: Ok

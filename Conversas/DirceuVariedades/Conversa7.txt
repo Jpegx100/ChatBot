@@ -1,0 +1,16 @@
+12/04/18 10:30 - DIRCEU VARIEDADES - TERESINA: Bom dia!
+12/04/18 10:31 - DIRCEU VARIEDADES - TERESINA: Quero tirar uma dúvida...se eu colocar um produto para inativo mas com um tempo comprá-lo novamente
+12/04/18 10:31 - DIRCEU VARIEDADES - TERESINA: Quando for lançar XML ele será reconhecido?
+12/04/18 10:32 - DIRCEU VARIEDADES - TERESINA: O sistema reconhece mesmo tendo todos os dados?
+12/04/18 10:34 - DIRCEU VARIEDADES - TERESINA: Caso a resposta seja não, o que faço? Pois tenho produtos que não tenho mais na loja mas possa vir a comprar novamente com um tempo
+12/04/18 10:38 - Infog2 Tecnologia: Ele aparece na tela de resolução de problemas como inativo, solicitando que vc ative o produto. Em um botão que aparece logo abaixo dos itens
+12/04/18 10:43 - DIRCEU VARIEDADES - TERESINA: Então XML reconhece... obrigada!!
+12/04/18 10:46 - Infog2 Tecnologia: Sim
+12/04/18 10:47 - Infog2 Tecnologia: Por nada
+12/04/18 17:38 - DIRCEU VARIEDADES - TERESINA: Quando coloco um produto inativo, onde encontro ele no sistema???
+12/04/18 17:42 - Infog2 Tecnologia: no cadastro de produtos
+12/04/18 17:42 - DIRCEU VARIEDADES - TERESINA: 🤔🤔🤔
+12/04/18 17:43 - DIRCEU VARIEDADES - TERESINA: <Arquivo de mídia oculto>
+12/04/18 17:43 - DIRCEU VARIEDADES - TERESINA: Onde?
+12/04/18 17:44 - Infog2 Tecnologia: quando vc inativa um produto ele só não aparece em vendas, e na parte de entrada de produtos pela pesquisa, tera que marca a opção mostrar inativos..
+12/04/18 17:44 - Infog2 Tecnologia: Onde vc cadastra os produtos

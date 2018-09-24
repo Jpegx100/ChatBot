@@ -1,0 +1,53 @@
+02/06/18 08:33 - DIRCEU VARIEDADES - TERESINA: Bom dia!!
+02/06/18 08:33 - DIRCEU VARIEDADES - TERESINA: Estou com problemas em todos os meus estoques
+02/06/18 08:34 - DIRCEU VARIEDADES - TERESINA: Por favor assim que lerem essa mensagem me retorne
+02/06/18 08:34 - Infog2 Tecnologia: Bom dia Elisangela
+02/06/18 08:34 - Infog2 Tecnologia: Vou abrir o seu chamado
+02/06/18 08:35 - Infog2 Tecnologia: Pode especificar o problema com o estoque?
+02/06/18 08:36 - DIRCEU VARIEDADES - TERESINA: O sistema está multiplicando obestoque e gerando outros
+02/06/18 08:36 - DIRCEU VARIEDADES - TERESINA: O estoque*
+02/06/18 08:36 - Infog2 Tecnologia: Você já conferiu no relatório de histórico de produtos?
+02/06/18 08:37 - DIRCEU VARIEDADES - TERESINA: Já
+02/06/18 08:37 - DIRCEU VARIEDADES - TERESINA: Ha erro
+02/06/18 08:37 - Infog2 Tecnologia: Certo, Vou abrir uma chamado um dos técnicos vai entrar em contato pra verificar o problema.
+02/06/18 08:39 - DIRCEU VARIEDADES - TERESINA: Vou sair para estacionar o carro
+02/06/18 08:39 - DIRCEU VARIEDADES - TERESINA: Volto logo
+02/06/18 08:39 - Infog2 Tecnologia: certo
+02/06/18 08:49 - Infog2 Tecnologia: Bom dia Elisângela
+02/06/18 08:49 - Infog2 Tecnologia: Lislayne aqui
+02/06/18 08:52 - Infog2 Tecnologia: Estou ligando para vermos o seu atendimento
+02/06/18 08:53 - Infog2 Tecnologia: Mas não está atendendo
+02/06/18 08:53 - Infog2 Tecnologia: Quando possível me passa a id e senha para eu verificar o problema.
+02/06/18 09:10 - DIRCEU VARIEDADES - TERESINA: Lislayne demorei um pouco pq fui ver como foi que aconteceu isso
+02/06/18 09:12 - Infog2 Tecnologia: Certo. Conseguiu encontrar algo
+02/06/18 09:12 - Infog2 Tecnologia: ?
+02/06/18 09:14 - Infog2 Tecnologia: Me conecta pra q eu possa ver
+02/06/18 09:17 - DIRCEU VARIEDADES - TERESINA: <Arquivo de mídia oculto>
+02/06/18 09:18 - Infog2 Tecnologia: Me mostra o produto
+02/06/18 09:22 - DIRCEU VARIEDADES - TERESINA: Eu zerei esse produto pois não tinha na loja associei a outro mas continuou o estoque
+02/06/18 09:23 - DIRCEU VARIEDADES - TERESINA: Mas já encontramos vários produtos com estuques altos como ontem que tinha 34 na loja e mais de com no estoque
+02/06/18 09:23 - DIRCEU VARIEDADES - TERESINA: Sempre que encontramos é mais de cem
+02/06/18 09:24 - DIRCEU VARIEDADES - TERESINA: Isso já tinha acontecido antes, na época do Ícaro,  ele ajeitou
+02/06/18 09:24 - DIRCEU VARIEDADES - TERESINA: Mas me deu um trabalhão pois não sabíamos quanto tinha cada produto no estoque
+02/06/18 09:25 - DIRCEU VARIEDADES - TERESINA: Colocamos uma quantidade para alterarmos conforme a venda
+02/06/18 09:25 - DIRCEU VARIEDADES - TERESINA: Essa nota foi a última que lancei
+02/06/18 09:25 - DIRCEU VARIEDADES - TERESINA: Deu um problema ao associar um produto
+02/06/18 09:26 - DIRCEU VARIEDADES - TERESINA: Mas resolvi indo em estoque
+02/06/18 09:25 - Infog2 Tecnologia: <Arquivo de mídia oculto>
+02/06/18 09:28 - Infog2 Tecnologia: Um o preço foi colocado como 1.99 e no outro como 2.00, mas são o mesmo produto na mesma nota
+02/06/18 09:29 - Infog2 Tecnologia: Por isso entrou duas vezes
+02/06/18 09:30 - DIRCEU VARIEDADES - TERESINA: <Arquivo de mídia oculto>
+02/06/18 09:33 - DIRCEU VARIEDADES - TERESINA: Lembro de alterar esse produto
+02/06/18 09:34 - DIRCEU VARIEDADES - TERESINA: Devido a esse 0,01 a cliente fez confusão na loja
+02/06/18 09:34 - DIRCEU VARIEDADES - TERESINA: Pois era direito de todos receber o troco
+02/06/18 09:32 - Infog2 Tecnologia: <Arquivo de mídia oculto>
+02/06/18 09:35 - DIRCEU VARIEDADES - TERESINA: 🙈nao tem moeda
+02/06/18 09:39 - DIRCEU VARIEDADES - TERESINA: <Arquivo de mídia oculto>
+02/06/18 09:40 - DIRCEU VARIEDADES - TERESINA: <Arquivo de mídia oculto>
+02/06/18 09:41 - Infog2 Tecnologia: Haa então tá certinho esse ai.
+02/06/18 09:42 - Infog2 Tecnologia: Pronto então fica combinado assim, vc anotando os códigos eu consigo descobrir se o sistema está com erro. Pois tenho como analisar os logs  do sistema, e identificar onde está o erro.
+02/06/18 09:42 - DIRCEU VARIEDADES - TERESINA: certo
+02/06/18 09:43 - DIRCEU VARIEDADES - TERESINA: Obrigado pela atenção!
+02/06/18 09:43 - Infog2 Tecnologia: Por nada! Disponha!
+02/06/18 09:43 - DIRCEU VARIEDADES - TERESINA: Bom final de semana para todos vcs😘
+02/06/18 09:43 - Infog2 Tecnologia: Pra vcs aí também, bom descanso!
