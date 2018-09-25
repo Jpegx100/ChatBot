@@ -1,0 +1,42 @@
+02/06/18 11:09 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Bom dia
+02/06/18 11:10 - Infog2 Tecnologia: Bom dia
+02/06/18 11:10 - Infog2 Tecnologia: Em que posso ajudar?
+02/06/18 11:10 - Infog2 Tecnologia: Você fala com Mayllana
+02/06/18 11:16 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Sistena não abrir
+02/06/18 11:17 - Infog2 Tecnologia: Me passa o teamviewer das duas máquinas
+02/06/18 11:17 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: <Arquivo de mídia oculto>
+02/06/18 11:18 - Infog2 Tecnologia: da outra tbm
+02/06/18 11:20 - Infog2 Tecnologia: ????
+02/06/18 11:23 - Infog2 Tecnologia: Preciso do teamviewer do terminal também
+02/06/18 11:36 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Tá enviando
+02/06/18 11:36 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: <Arquivo de mídia oculto>
+02/06/18 11:39 - Infog2 Tecnologia: Qual não está abrindo?
+02/06/18 11:40 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Terminal
+02/06/18 11:40 - Infog2 Tecnologia: O pdv que não está abrindo?
+02/06/18 11:41 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Isso
+02/06/18 11:41 - Infog2 Tecnologia: Esse usuário tá aberto no caixa do servidor
+02/06/18 11:41 - Infog2 Tecnologia: Vamos marcar de atualizar o seu sistema na segunda? Temos uma correção para esses erros
+02/06/18 11:42 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Servidor tá funcionando
+02/06/18 11:42 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Olha no terminal
+02/06/18 11:42 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: tem a msg de erro
+02/06/18 11:42 - Infog2 Tecnologia: Está tentando abrir com o usuário 4, certo?
+02/06/18 11:42 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Sim
+02/06/18 11:42 - Infog2 Tecnologia: Esse usuário já está com caixa aberto no servidor. Vá no servidor, acesse com o usuário 4
+02/06/18 11:43 - Infog2 Tecnologia: veja se abre
+02/06/18 11:43 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Já tentei
+02/06/18 11:43 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Não abrir
+02/06/18 11:43 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Perai
+02/06/18 11:43 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Vai dar certo
+02/06/18 11:44 - Infog2 Tecnologia: Basta fechar o caixa 4 lá no servidor que ele libera pra fazer venda no terminal
+02/06/18 11:45 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Tá bom
+02/06/18 11:45 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Obrigado
+02/06/18 11:45 - Infog2 Tecnologia: Podemos atualizar o sistema na segunda?
+02/06/18 11:45 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Sim
+02/06/18 11:45 - Infog2 Tecnologia: pra não ocorrer esse tipo de problema novamente?
+02/06/18 11:45 - Infog2 Tecnologia: Ok, pode ser  as 13h?
+02/06/18 11:45 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Pode sim
+02/06/18 11:46 - Infog2 Tecnologia: ok, marcado. Na segunda entro em contato
+
+02/06/18 11:46 - Infog2 Tecnologia: Bom dia!
+02/06/18 11:46 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Ok
+02/06/18 11:46 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Bom dia

@@ -1,0 +1,32 @@
+26/04/18 09:59 - DROGARIA PATRICIA ALTO PARANAÍBA: Oi bom dia!
+26/04/18 10:03 - DROGARIA PATRICIA ALTO PARANAÍBA: Eu não tô usando conseguindo fechar alguns produtos
+26/04/18 10:03 - DROGARIA PATRICIA ALTO PARANAÍBA: Conseguindo*
+26/04/18 10:05 - DROGARIA PATRICIA ALTO PARANAÍBA: Tá dando erro no Cfop
+26/04/18 10:05 - Infog2 Tecnologia: Bom dia
+26/04/18 10:06 - DROGARIA PATRICIA ALTO PARANAÍBA: Só que  tá certo o Cfop
+26/04/18 10:06 - Infog2 Tecnologia: No cadastro do produto veja qual cfop está cadastrado
+26/04/18 10:06 - DROGARIA PATRICIA ALTO PARANAÍBA: 5405
+26/04/18 10:06 - Infog2 Tecnologia: Qual a tributação?
+26/04/18 10:07 - DROGARIA PATRICIA ALTO PARANAÍBA: Substituição
+26/04/18 10:07 - Infog2 Tecnologia: Então o problema não é com esse produto
+26/04/18 10:08 - DROGARIA PATRICIA ALTO PARANAÍBA: E cm quer então?
+26/04/18 10:09 - Infog2 Tecnologia: Me conecta ao teamviewer
+26/04/18 10:09 - Infog2 Tecnologia: E me mostre o produto
+26/04/18 10:09 - DROGARIA PATRICIA ALTO PARANAÍBA: Tá só um minuto
+26/04/18 10:12 - DROGARIA PATRICIA ALTO PARANAÍBA: <Arquivo de mídia oculto>
+26/04/18 10:13 - Infog2 Tecnologia: Me mostra o erro que aparece
+26/04/18 10:13 - Infog2 Tecnologia: Tô acompanhando
+26/04/18 10:14 - DROGARIA PATRICIA ALTO PARANAÍBA: <Arquivo de mídia oculto>
+26/04/18 10:14 - DROGARIA PATRICIA ALTO PARANAÍBA: Nem da pra ver
+26/04/18 10:14 - Infog2 Tecnologia: Cfop
+26/04/18 10:15 - Infog2 Tecnologia: Está errado
+26/04/18 10:15 - Infog2 Tecnologia: Aqui está 5403
+26/04/18 10:16 - Infog2 Tecnologia: O cfop tem que estar 5405 quando a tributação for substituição
+26/04/18 10:16 - Infog2 Tecnologia: Corrige o cfop desse produto
+26/04/18 10:18 - Infog2 Tecnologia: ?
+26/04/18 10:19 - Infog2 Tecnologia: <Arquivo de mídia oculto>
+26/04/18 10:20 - Infog2 Tecnologia: Basta acessar o pluspdvSg e consultar esse produto
+26/04/18 10:20 - Infog2 Tecnologia: E corrigir o cfop
+26/04/18 10:20 - DROGARIA PATRICIA ALTO PARANAÍBA: Ok
+26/04/18 10:27 - Infog2 Tecnologia: Sabe corrigir o produto?
+26/04/18 10:28 - DROGARIA PATRICIA ALTO PARANAÍBA: Sim

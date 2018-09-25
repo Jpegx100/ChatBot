@@ -1,0 +1,51 @@
+21/03/18 09:52 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Bom dia
+21/03/18 09:52 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: José
+21/03/18 09:52 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Drogaria mais saúde
+21/03/18 09:52 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Parnarama
+21/03/18 09:53 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Tô com um problema no sistema
+21/03/18 09:56 - Infog2 Tecnologia: Bom dia José, qual o problema?
+21/03/18 10:06 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Sistema da popular
+21/03/18 10:06 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Não funcionando
+21/03/18 10:06 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Em um computador
+21/03/18 10:06 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Não finalizou a venda
+21/03/18 10:07 - Infog2 Tecnologia: Qual a mensagem?
+21/03/18 10:18 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Mensagem de erro
+21/03/18 10:19 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: E não tá emitido
+21/03/18 10:19 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Nota fiscal
+21/03/18 10:27 - Infog2 Tecnologia: Vou abrir um chamado
+21/03/18 10:28 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Ok
+21/03/18 10:38 - Infog2 Tecnologia: Bom dia José
+21/03/18 10:38 - Infog2 Tecnologia: É Mayllana da infog2
+21/03/18 10:38 - Infog2 Tecnologia: tem um chamado aberto pra vocÊ
+21/03/18 10:39 - Infog2 Tecnologia: em que posso ajudar?
+21/03/18 10:47 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Tô com problemas aqui
+21/03/18 10:47 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: No sistema
+21/03/18 10:47 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Aqui
+21/03/18 10:47 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: ????????????
+21/03/18 10:47 - Infog2 Tecnologia: O que aconteceu com a venda?
+21/03/18 10:48 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Não finalizar
+21/03/18 10:49 - Infog2 Tecnologia: Qual a mensagem?
+21/03/18 10:50 - Infog2 Tecnologia: era uma venda de 349?
+21/03/18 10:50 - Infog2 Tecnologia: Aqui diz que a venda foi rejeitada, o item 3 está com o cfop errado
+21/03/18 10:51 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Esta mensagem foi apagada
+21/03/18 10:51 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Sim
+21/03/18 10:51 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Cfop
+21/03/18 10:51 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Errado
+21/03/18 10:51 - Infog2 Tecnologia: sim
+21/03/18 10:51 - Infog2 Tecnologia: BENICARANLO 40MG+5MG C/30 CPR REV este é o item 3 da venda
+21/03/18 10:52 - Infog2 Tecnologia: Basta corrigir o cfop e refazer a venda
+21/03/18 10:52 - Infog2 Tecnologia: Pode fazer isso agora?
+21/03/18 10:52 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Tá bom
+21/03/18 10:54 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Deu certo
+21/03/18 10:54 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Mas antes
+21/03/18 10:54 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Tem outro
+21/03/18 10:55 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: O clonazepam não mandou no terminal
+21/03/18 10:55 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Só servido
+21/03/18 10:55 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Servidor ele tava certo
+21/03/18 10:55 - Infog2 Tecnologia: Não entendi
+21/03/18 10:55 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Ele não passou no terminal
+21/03/18 10:55 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Só no servidor
+21/03/18 10:56 - Infog2 Tecnologia: quer dizer que não foi feito prevenda, certo?
+21/03/18 11:09 - Infog2 Tecnologia: Precisa de algo mais?
+21/03/18 11:09 - DROGARIA MAIS SAUDE - PARNARAMA - JOSE: Não obrigado
+21/03/18 11:09 - Infog2 Tecnologia: Por nada! Bom dia

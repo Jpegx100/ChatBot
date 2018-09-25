@@ -1,0 +1,21 @@
+16/03/18 11:07 - DROGARIA PATRICIA ALTO PARANAÍBA: Como faço pra ver os relatórios de todos os clientes
+16/03/18 11:09 - Infog2 Tecnologia: Bom dia
+16/03/18 11:09 - Infog2 Tecnologia: Me passe id e senha do teamviewer, por favor
+16/03/18 11:10 - DROGARIA PATRICIA ALTO PARANAÍBA: Id 315409104
+16/03/18 11:10 - DROGARIA PATRICIA ALTO PARANAÍBA: Senha 7469
+16/03/18 11:11 - DROGARIA PATRICIA ALTO PARANAÍBA: Do ano 2005 até hj
+16/03/18 11:11 - DROGARIA PATRICIA ALTO PARANAÍBA: Pra cobranças
+16/03/18 11:13 - Infog2 Tecnologia: Você quer cadastro de clientes ou relatóri de débitos atrasados?
+16/03/18 11:13 - DROGARIA PATRICIA ALTO PARANAÍBA: Relatórios de débitos atrassados
+16/03/18 11:14 - Infog2 Tecnologia: O caminho é esse: Relatórios>> Contas a Receber
+16/03/18 11:15 - Infog2 Tecnologia: Já está na tela de relatórios
+16/03/18 11:15 - Infog2 Tecnologia: Clica na opção contas a receber
+16/03/18 11:16 - Infog2 Tecnologia: Basta marcar parcelas atrasadas
+16/03/18 11:16 - Infog2 Tecnologia: ele trará todas em atraso
+16/03/18 11:16 - DROGARIA PATRICIA ALTO PARANAÍBA: Ok
+16/03/18 11:28 - Infog2 Tecnologia: Precisa de algo mais?
+16/03/18 11:30 - DROGARIA PATRICIA ALTO PARANAÍBA: Esta carregando ainda
+16/03/18 11:34 - Infog2 Tecnologia: Deu certo?
+16/03/18 11:38 - DROGARIA PATRICIA ALTO PARANAÍBA: Sim
+16/03/18 11:38 - DROGARIA PATRICIA ALTO PARANAÍBA: Obrigado
+16/03/18 11:40 - Infog2 Tecnologia: Por nada! Bom dia

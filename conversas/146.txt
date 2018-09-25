@@ -1,0 +1,23 @@
+15/03/18 13:09 - ELIFARMA - ESPERANTINA - JORDANE: Boa tarde
+15/03/18 13:09 - Infog2 Tecnologia: Seja bem-vindo(a) a Infog2 Tecnologia! Estamos ansiosos para atendê-lo(a).
+15/03/18 13:09 - Infog2 Tecnologia: Boa tarde
+15/03/18 13:10 - ELIFARMA - ESPERANTINA - JORDANE: Como faço pra ver quanto eu vendi no mês todo?
+15/03/18 13:10 - Infog2 Tecnologia: Com quem falo, por gentileza?
+15/03/18 13:17 - ELIFARMA - ESPERANTINA - JORDANE: Jordane 
+Elifarma- Esperantina
+15/03/18 13:18 - Infog2 Tecnologia: Voce pode olhar pelo pluspdvSg> movimento>> consulta de vendas
+15/03/18 13:20 - ELIFARMA - ESPERANTINA - JORDANE: <Arquivo de mídia oculto>
+15/03/18 13:25 - Infog2 Tecnologia: Não
+15/03/18 13:25 - Infog2 Tecnologia: à esquerda
+15/03/18 13:30 - ELIFARMA - ESPERANTINA - JORDANE: Ok
+15/03/18 13:30 - ELIFARMA - ESPERANTINA - JORDANE: Não entendi direito
+15/03/18 13:34 - Infog2 Tecnologia: Voce clica em vendas ( canto esquerdo parte inferior)
+15/03/18 13:34 - Infog2 Tecnologia: Usa os filtros, colocando o período que deseja.
+15/03/18 13:35 - Infog2 Tecnologia: CLica no botão consultar
+15/03/18 13:35 - Infog2 Tecnologia: E a esquerda ele totaliza as vendas, e o quanto foi vendido
+15/03/18 13:35 - Infog2 Tecnologia: Você pode ir também por Relatórios>> Total vendido
+15/03/18 13:35 - Infog2 Tecnologia: E usar os filtros para gerar o relatório da forma que lhe convir
+15/03/18 13:37 - ELIFARMA - ESPERANTINA - JORDANE: Deu certo, esse total a vista já é junto com o recebimento?
+15/03/18 13:38 - Infog2 Tecnologia: Aqui, somente as vendas
+15/03/18 13:38 - ELIFARMA - ESPERANTINA - JORDANE: Nessa outra opção não consegui ver
+15/03/18 14:05 - Infog2 Tecnologia: Nos relatórios?

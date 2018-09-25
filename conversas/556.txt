@@ -1,0 +1,51 @@
+16/03/18 07:40 - DROGATERPI - THAYANNE: Bom dia
+16/03/18 07:40 - Infog2 Tecnologia: Olá, agradecemos por sua mensagem. Não estamos disponíveis no momento, mas respoderemos assim que retornarmos.
+16/03/18 07:40 - DROGATERPI - THAYANNE: Estou com problemas na impressora fiscal
+16/03/18 08:08 - Infog2 Tecnologia: Bom dia
+16/03/18 08:09 - Infog2 Tecnologia: fecha o sistema desliga a impressora e liga novamente, dai vc testa a venda
+16/03/18 08:11 - DROGATERPI - THAYANNE: Ja fiz isso
+16/03/18 08:11 - DROGATERPI - THAYANNE: Tbm ja reiniciei o computador
+16/03/18 08:11 - DROGATERPI - THAYANNE: E n deu
+16/03/18 08:11 - Infog2 Tecnologia: me conecta no team viewer
+16/03/18 08:12 - Infog2 Tecnologia: me passa a id e senha
+16/03/18 08:14 - DROGATERPI - THAYANNE: Fiz tudo de novo
+16/03/18 08:14 - DROGATERPI - THAYANNE: To testando aqui uma venda
+16/03/18 08:15 - Infog2 Tecnologia: ok
+16/03/18 08:15 - DROGATERPI - THAYANNE: Deu certo
+16/03/18 08:15 - Infog2 Tecnologia: deixa eu ti explicar
+16/03/18 08:16 - Infog2 Tecnologia: essa impressora elgin ela tem um bloqueia de porta caso seja ligada antes do computador.
+16/03/18 08:16 - Infog2 Tecnologia: então sempre no inicio do dia antes de ligar a impressora vc tem que ligar primeiro o computador
+16/03/18 08:17 - Infog2 Tecnologia: depois que o computador estiver ligado ai q vc liga a impressora.
+16/03/18 08:17 - DROGATERPI - THAYANNE: Aah ta bom
+16/03/18 08:17 - DROGATERPI - THAYANNE: É pq hj ele fez uma atualização e demorou abrir a tela
+16/03/18 08:17 - Infog2 Tecnologia: se não for feito assim todos os dias ela ira travar e não deixara vc fazer vendas
+16/03/18 08:18 - Infog2 Tecnologia: no final do dia antes de desligar o computador vc desliga a impressora primeiro, depois desliga o computador.
+16/03/18 08:18 - Infog2 Tecnologia: ta ok
+16/03/18 08:18 - DROGATERPI - THAYANNE: Ta bom
+16/03/18 08:18 - DROGATERPI - THAYANNE: Vou passar pra outra moça tbm
+16/03/18 08:18 - Infog2 Tecnologia: Haa quanfo acontecer isso espera o windows iniciar, ai sim vc liga a impressora.
+16/03/18 08:18 - Infog2 Tecnologia: certo. obrigada
+16/03/18 09:56 - DROGATERPI - THAYANNE: Oi
+16/03/18 09:57 - DROGATERPI - THAYANNE: A impressora n ta imprimindo de novo
+16/03/18 09:57 - DROGATERPI - THAYANNE: 🤦‍♀
+16/03/18 10:00 - Infog2 Tecnologia: Bom dia,
+16/03/18 10:00 - Infog2 Tecnologia: Feche o sistema
+16/03/18 10:00 - Infog2 Tecnologia: desligue a impressora
+16/03/18 10:00 - Infog2 Tecnologia: ligue novamente
+16/03/18 10:00 - Infog2 Tecnologia: abra o sistema
+16/03/18 10:00 - Infog2 Tecnologia: e tente fazer venda
+16/03/18 10:02 - DROGATERPI - THAYANNE: <Arquivo de mídia oculto>
+16/03/18 10:06 - DROGATERPI - THAYANNE: 👀
+16/03/18 10:07 - Infog2 Tecnologia: Dever mudado a impressora padrão
+16/03/18 10:07 - Infog2 Tecnologia: Me passe o teamviewer
+16/03/18 10:08 - DROGATERPI - THAYANNE: <Arquivo de mídia oculto>
+16/03/18 10:09 - Infog2 Tecnologia: Imprimiu algo?
+16/03/18 10:09 - DROGATERPI - THAYANNE: Sim
+16/03/18 10:10 - Infog2 Tecnologia: Pronto, faz o teste
+16/03/18 10:10 - DROGATERPI - THAYANNE: Saiu todos os papeis ja
+16/03/18 10:10 - DROGATERPI - THAYANNE: Q eu tinha mandado
+16/03/18 10:10 - Infog2 Tecnologia: Isso
+16/03/18 10:10 - Infog2 Tecnologia: tinha um documento preso
+16/03/18 10:11 - DROGATERPI - THAYANNE: <Arquivo de mídia oculto>
+16/03/18 10:13 - Infog2 Tecnologia: Na reimpressão não sai
+16/03/18 10:18 - DROGATERPI - THAYANNE: Ok
