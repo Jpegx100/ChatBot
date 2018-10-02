@@ -1,0 +1,25 @@
+10/07/18 09:43 - DROGATERPI - THAYANNE: Bom dia
+10/07/18 09:44 - DROGATERPI - THAYANNE: Pai pediu pra limpar os debitos do farmacia popular aqui do sistema
+10/07/18 09:44 - DROGATERPI - THAYANNE: Que ja esta muito alto
+10/07/18 09:53 - Infog2 Tecnologia: Bom dia Thaiane
+10/07/18 09:54 - Infog2 Tecnologia: É Mayllana da infog2
+10/07/18 09:54 - Infog2 Tecnologia: Me conecta no teamviewer que eu verifico
+10/07/18 09:55 - DROGATERPI - THAYANNE: <Arquivo de mídia oculto>
+10/07/18 09:58 - Infog2 Tecnologia: O farmacia popular não está criando débitos
+10/07/18 09:59 - Infog2 Tecnologia: Pode me mostrar uma conta aberto referente farmacia popular?
+10/07/18 10:00 - Infog2 Tecnologia: Estão jogando duplicatas nesse cliente
+10/07/18 10:00 - DROGATERPI - THAYANNE: Duplicatas?
+10/07/18 10:00 - Infog2 Tecnologia: <Arquivo de mídia oculto>
+10/07/18 10:01 - DROGATERPI - THAYANNE: Mas n tem opcao farmacia popular 🤔
+10/07/18 10:02 - DROGATERPI - THAYANNE: Os valores sao exatamentes o valor das vendas passadas no farmacia popular
+10/07/18 10:12 - Infog2 Tecnologia: Eu testei e realmente está gerando
+10/07/18 10:13 - Infog2 Tecnologia: Preciso repassar isso ao gerente de desenvolvimento, pois está configurado para não gerar débito.
+10/07/18 10:13 - DROGATERPI - THAYANNE: Ok
+10/07/18 10:13 - DROGATERPI - THAYANNE: Mas tem dar baixa no debito que ja existe?
+10/07/18 10:14 - Infog2 Tecnologia: tem sim
+10/07/18 10:14 - Infog2 Tecnologia: vou fechar todos os débitos desse cliente
+10/07/18 10:15 - DROGATERPI - THAYANNE: Ta bom
+10/07/18 10:22 - Infog2 Tecnologia: Pronto, os débitos foram postos como Pagos
+10/07/18 10:26 - DROGATERPI - THAYANNE: Ok
+10/07/18 10:37 - DROGATERPI - THAYANNE: Posso ir fechando as vendas ?
+10/07/18 10:41 - Infog2 Tecnologia: pode sim

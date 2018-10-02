@@ -1,0 +1,237 @@
+20/04/18 08:18 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Bom dia
+20/04/18 08:24 - Infog2 Tecnologia: Bom dia
+20/04/18 08:25 - Infog2 Tecnologia: Em que posso ajudar?
+20/04/18 08:35 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Queria começar a lançar as contas dos clientes
+20/04/18 08:41 - Infog2 Tecnologia: Se refere as vendas?
+20/04/18 08:42 - Infog2 Tecnologia: Ou contas antigas?
+20/04/18 08:42 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Contas antigas
+20/04/18 08:42 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: A serem lançadas
+20/04/18 08:42 - Infog2 Tecnologia: Certo, os clientes já estão cadastrados no sistema?
+20/04/18 08:42 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: E nos não sabe
+20/04/18 08:42 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ja
+20/04/18 08:42 - Infog2 Tecnologia: Ok.
+20/04/18 08:42 - Infog2 Tecnologia: Abra o pluspdvSg
+20/04/18 08:43 - Infog2 Tecnologia: E vá em financeiro》 contas a receber
+20/04/18 08:43 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Um momento 
+
+Vamos logo fazer uma nota fiscal que ainda não foi feita
+20/04/18 08:43 - Infog2 Tecnologia: Que nota fiscal?
+20/04/18 08:44 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Uma nota fiscal de uns medicamentos que fornecemos a prefeitura
+20/04/18 08:44 - Infog2 Tecnologia: Então é uma venda
+20/04/18 08:44 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Sim
+20/04/18 08:45 - Infog2 Tecnologia: Certo
+20/04/18 08:45 - Infog2 Tecnologia: Faça a venda no caixa não fiscal
+20/04/18 08:45 - Infog2 Tecnologia: Dos produtos que vão para esse cliente
+20/04/18 08:46 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: E qual é ?
+
+Não é no pdv,,?
+20/04/18 08:46 - Infog2 Tecnologia: Reinaldo deixou dois caixas. Um de vendas fiscais e outro pra quando tiver que fazer as notas
+20/04/18 08:47 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: E o outro caixa da baixa no estoque?
+20/04/18 08:47 - Infog2 Tecnologia: Sim
+20/04/18 08:47 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ok
+20/04/18 08:48 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Então é nesse g2nfe?
+20/04/18 08:48 - Infog2 Tecnologia: Me passa o teamviewer
+20/04/18 08:49 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: 714 924 826
+20/04/18 08:49 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: 5362
+20/04/18 08:52 - Infog2 Tecnologia: Você apagou esta mensagem
+20/04/18 08:54 - Infog2 Tecnologia: A tua versão está atualizada
+20/04/18 08:54 - Infog2 Tecnologia: É no mesmo pdv
+20/04/18 08:54 - Infog2 Tecnologia: <Arquivo de mídia oculto>
+20/04/18 08:55 - Infog2 Tecnologia: Quando for vendas que serão nota fiscal grande você seleciona a opção em vermelho
+20/04/18 08:55 - Infog2 Tecnologia: Abre o pdv com teu usuário e senha
+20/04/18 08:55 - Infog2 Tecnologia: Vou te acompanhar na venda
+20/04/18 08:55 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Tá
+20/04/18 08:56 - Infog2 Tecnologia: Ok, da um enter
+20/04/18 08:56 - Infog2 Tecnologia: E pode ir passando os produtos
+20/04/18 08:56 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Tá
+20/04/18 08:58 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Um momento 
+Tem um erro aki
+20/04/18 08:59 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Como cancelo essa venda?
+
+Do zetia
+20/04/18 08:59 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Deu certo aki
+20/04/18 09:00 - Infog2 Tecnologia: Passou os produtos ?
+20/04/18 09:01 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Não 
+Vou ter que dar entrada em um produto
+20/04/18 09:01 - Infog2 Tecnologia: Certo.
+20/04/18 09:01 - Infog2 Tecnologia: Faça a entrada
+20/04/18 09:01 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: So saio do caixa se fechar?
+20/04/18 09:04 - Infog2 Tecnologia: Não entendi
+20/04/18 09:07 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: So vai daqui pra onde se lança produtos se fechar?
+20/04/18 09:08 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Pronto
+20/04/18 09:08 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: O que faço agora?
+20/04/18 09:09 - Infog2 Tecnologia: Agora clica em f2
+20/04/18 09:09 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ok
+20/04/18 09:11 - Infog2 Tecnologia: Agora basta fechar a venda
+20/04/18 09:11 - Infog2 Tecnologia: De enter até chegar no campo de forma de pagamento
+20/04/18 09:11 - Infog2 Tecnologia: O pagamento é em dinheiro ou a prazo?
+20/04/18 09:13 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Essa nota vai pra prefeitura 
+
+É pra ser a vista,  mas porém não pagam hj.
+20/04/18 09:14 - Infog2 Tecnologia: Então você gera um contas a receber. Quando pagarem você da baixa
+20/04/18 09:14 - Infog2 Tecnologia: De enter 3 vezes
+20/04/18 09:14 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Pronto
+20/04/18 09:14 - Infog2 Tecnologia: Digita 2 E da enter
+20/04/18 09:15 - Infog2 Tecnologia: Opa, apaga o 2 e coloca 3
+20/04/18 09:15 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ok
+20/04/18 09:15 - Infog2 Tecnologia: Coloca o valor total
+20/04/18 09:16 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ok
+20/04/18 09:16 - Infog2 Tecnologia: Da enter
+20/04/18 09:16 - Infog2 Tecnologia: Certo
+20/04/18 09:16 - Infog2 Tecnologia: Procura o cliente
+20/04/18 09:16 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ok
+20/04/18 09:16 - Infog2 Tecnologia: Coloca 1 parcela
+20/04/18 09:17 - Infog2 Tecnologia: E muda a data de vencimento
+20/04/18 09:17 - Infog2 Tecnologia: Para a data que você acredita que receberá esse valor
+20/04/18 09:17 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Tá
+20/04/18 09:18 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: E se eles não pagar até a data que a gente colocar, ? Twm algum problema ?
+20/04/18 09:18 - Infog2 Tecnologia: Não na hora de dar baixa no sistema, se tiver juros Basta dar desconto referente aos juros.
+20/04/18 09:18 - Infog2 Tecnologia: É só pra registrar no sistema que tem esse valor pra receber
+20/04/18 09:19 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ta bom
+20/04/18 09:19 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Pois é já 
+
+Perguntar aki a mocinha que data coloco
+20/04/18 09:19 - Infog2 Tecnologia: Ok
+20/04/18 09:19 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Deixae essa data msm então
+20/04/18 09:20 - Infog2 Tecnologia: Certo, é só clicar em confirmar
+20/04/18 09:20 - Infog2 Tecnologia: Clique no vermelho
+20/04/18 09:20 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Vermelho ne?
+20/04/18 09:21 - Infog2 Tecnologia: Não fiscal
+20/04/18 09:21 - Infog2 Tecnologia: Clica em ok
+20/04/18 09:21 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ta
+20/04/18 09:21 - Infog2 Tecnologia: Ok
+20/04/18 09:21 - Infog2 Tecnologia: Abre a nfe
+20/04/18 09:22 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: É já
+20/04/18 09:23 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Aki?
+20/04/18 09:23 - Infog2 Tecnologia: Isso
+20/04/18 09:23 - Infog2 Tecnologia: Clica em adicionar
+20/04/18 09:24 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: É ja
+
+esperar a mocinha desocupar ali pra aprender tbm
+20/04/18 09:25 - Infog2 Tecnologia: Ok
+20/04/18 09:28 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: E agora?
+20/04/18 09:30 - Infog2 Tecnologia: Seleciona venda
+20/04/18 09:30 - Infog2 Tecnologia: E clica em om
+20/04/18 09:30 - Infog2 Tecnologia: Ok
+20/04/18 09:30 - Infog2 Tecnologia: Agora, no canto esquerdo clica em importa venda
+20/04/18 09:31 - Infog2 Tecnologia: Clica em consulta
+20/04/18 09:31 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ok
+20/04/18 09:31 - Infog2 Tecnologia: Marca a caixa selecionar e clica em ok
+20/04/18 09:31 - Infog2 Tecnologia: Pronto
+20/04/18 09:31 - Infog2 Tecnologia: Os campos estão preenchidos com o endereço
+20/04/18 09:32 - Infog2 Tecnologia: Agora vá até o campo tipo de contribuinte
+20/04/18 09:32 - Infog2 Tecnologia: Esse cliente tem inscrição estadual?
+20/04/18 09:32 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Tem não
+20/04/18 09:32 - Infog2 Tecnologia: Então coloque como isento
+20/04/18 09:33 - Infog2 Tecnologia: E clique em salvar
+20/04/18 09:33 - Infog2 Tecnologia: Ok
+20/04/18 09:33 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: E agora?
+20/04/18 09:33 - Infog2 Tecnologia: Agora clique em enviar
+20/04/18 09:33 - Infog2 Tecnologia: Segundo botão da esquerda para a direita
+20/04/18 09:34 - Infog2 Tecnologia: Ok, por enviada
+20/04/18 09:34 - Infog2 Tecnologia: Basta imprimir
+20/04/18 09:34 - Infog2 Tecnologia: Quando o cliente pagar me avisa que te mostro como dar baixa no sistema
+20/04/18 09:34 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: No caso vamos ter que salvar num pen drive e e imprimir em outro local
+20/04/18 09:35 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ok
+20/04/18 09:35 - Infog2 Tecnologia: Clique em salvar
+20/04/18 09:35 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Cliquei
+20/04/18 09:35 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Salvou onde?
+20/04/18 09:35 - Infog2 Tecnologia: Você não clicou
+20/04/18 09:35 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Valia kkkk
+20/04/18 09:36 - Infog2 Tecnologia: Mude de padrão para pdf
+20/04/18 09:36 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Tinha clicado
+20/04/18 09:36 - Infog2 Tecnologia: Clica de novo
+20/04/18 09:36 - Infog2 Tecnologia: Mude de padrão para pdf
+20/04/18 09:36 - Infog2 Tecnologia: Clique nos pontos
+20/04/18 09:36 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ok mudei agora
+20/04/18 09:36 - Infog2 Tecnologia: Seleciona área de trabalho
+20/04/18 09:36 - Infog2 Tecnologia: Fica mais fácil de achar a nota
+20/04/18 09:36 - Infog2 Tecnologia: Isso
+20/04/18 09:36 - Infog2 Tecnologia: Só clicar me salvar
+20/04/18 09:37 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Tem que clicar em salvar de novo?
+20/04/18 09:37 - Infog2 Tecnologia: Clica em salvar
+20/04/18 09:37 - Infog2 Tecnologia: Sim
+20/04/18 09:37 - Infog2 Tecnologia: Pronto
+20/04/18 09:37 - Infog2 Tecnologia: Já está na área de trabalho
+20/04/18 09:37 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Posso fechar esaa tela?
+20/04/18 09:38 - Infog2 Tecnologia: Precisa fechar essa primeiro
+20/04/18 09:38 - Infog2 Tecnologia: Pode fechar
+20/04/18 09:39 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Pois ok graças a Deus
+20/04/18 09:39 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Agora vamos lançar as contas
+20/04/18 09:39 - Infog2 Tecnologia: Ok.
+20/04/18 09:39 - Infog2 Tecnologia: Abra o pluspdvSg
+20/04/18 09:39 - Infog2 Tecnologia: Vá em financeiro 》 contas a receber
+20/04/18 09:40 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Pronto
+20/04/18 09:40 - Infog2 Tecnologia: Clique em adicionar
+20/04/18 09:41 - Infog2 Tecnologia: Primeiro campo, cliente
+20/04/18 09:41 - Infog2 Tecnologia: De um enter
+20/04/18 09:41 - Infog2 Tecnologia: E procure o cliente
+20/04/18 09:41 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Tq bom
+20/04/18 09:41 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Jaja
+20/04/18 09:42 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Pronto
+20/04/18 09:42 - Infog2 Tecnologia: Agora de um enter
+20/04/18 09:42 - Infog2 Tecnologia: Clique em visão geral
+20/04/18 09:42 - Infog2 Tecnologia: Expandir
+20/04/18 09:43 - Infog2 Tecnologia: Pronto o que você vai usar é o 1.1
+20/04/18 09:43 - Infog2 Tecnologia: Clique duas vezes em cima dele
+20/04/18 09:43 - Infog2 Tecnologia: Ok
+20/04/18 09:43 - Infog2 Tecnologia: Agora ao valor
+20/04/18 09:43 - Infog2 Tecnologia: Quantidade de parcelas
+20/04/18 09:44 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: A gente não trabalha com parcelamento
+20/04/18 09:44 - Infog2 Tecnologia: Então deixa 1
+20/04/18 09:44 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ta bom
+20/04/18 09:44 - Infog2 Tecnologia: E passa para a data de vencimento
+20/04/18 09:45 - Infog2 Tecnologia: Certo
+20/04/18 09:45 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Enfim kkkk
+E agora?
+20/04/18 09:45 - Infog2 Tecnologia: Agora vem os campos de descontos e juros
+20/04/18 09:45 - Infog2 Tecnologia: Se não trabalhar com isso
+20/04/18 09:45 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Não
+20/04/18 09:45 - Infog2 Tecnologia: Pule para o campo de observações
+20/04/18 09:45 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: So gravo ne?
+20/04/18 09:45 - Infog2 Tecnologia: E escreva a que se refere esse débito
+20/04/18 09:45 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Tá
+20/04/18 09:46 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Já já
+20/04/18 09:47 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Gravo,?
+20/04/18 09:47 - Infog2 Tecnologia: Sim
+20/04/18 09:48 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Vai so clicando em adicionar agora?
+20/04/18 09:48 - Infog2 Tecnologia: Isso
+20/04/18 09:48 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: O código do cliente que lancei é 3?
+20/04/18 09:48 - Infog2 Tecnologia: Pra adicionar as outras é  assim
+20/04/18 09:48 - Infog2 Tecnologia: Sim
+20/04/18 09:49 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ta bom
+20/04/18 09:49 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Pois vamos continuar aki
+20/04/18 09:51 - Infog2 Tecnologia: Ok
+20/04/18 09:51 - Infog2 Tecnologia: Qualquer dúvida me avisa
+20/04/18 09:55 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Essa observação é obrigatória?
+20/04/18 09:58 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Esta mensagem foi apagada
+20/04/18 09:58 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Sw o cliente vinher pagar antes da gente começar a usar o sistema 
+
+Como a gente faz pra dar baixa?
+20/04/18 10:01 - Infog2 Tecnologia: Não, é só pra que você saiba a que se deve aquele débito. Quando o cliente comprou
+20/04/18 10:01 - Infog2 Tecnologia: Basta ir no pdv em f9 funções 》 recebimento de títulos
+20/04/18 10:01 - Infog2 Tecnologia: Quando tiver alguma baixa me avisa que eu te acompanho
+20/04/18 10:04 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ta bom
+20/04/18 10:16 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Da de fazer os lançamentos no outro computador tbm?
+20/04/18 10:17 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ou so nesse msm?
+20/04/18 10:18 - Infog2 Tecnologia: Pode fazer nos outros tbm
+20/04/18 10:18 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ta bom
+20/04/18 10:25 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Não está mais pesquisando o nome do cliente
+20/04/18 10:28 - Infog2 Tecnologia: Perdi conexão
+20/04/18 10:28 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Pois é ja
+20/04/18 10:31 - Infog2 Tecnologia: O campo do nome do cliente está vazio
+20/04/18 10:34 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Esta 
+Pq eu não consegui mais digitar
+20/04/18 10:36 - Infog2 Tecnologia: Eu estava mexendo
+20/04/18 10:36 - Infog2 Tecnologia: Pode usar
+20/04/18 10:38 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Não está dando certo
+20/04/18 10:38 - Infog2 Tecnologia: Você precisa selecionar o cliente
+20/04/18 10:38 - Infog2 Tecnologia: De um enter
+20/04/18 10:38 - Infog2 Tecnologia: E procure pelo nome
+20/04/18 10:38 - Infog2 Tecnologia: Se não aparecer é por que não está cadastrado
+20/04/18 10:39 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Valia
+20/04/18 10:39 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Pois vou tentar outro então
+20/04/18 10:39 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: <Arquivo de mídia oculto>
+20/04/18 10:40 - Infog2 Tecnologia: Tem que colocar no mínimo três caracteres
+20/04/18 10:40 - Infog2 Tecnologia: Só uma letra ele não busca
+20/04/18 10:41 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ah ta

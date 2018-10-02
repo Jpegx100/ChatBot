@@ -1,0 +1,101 @@
+18/04/18 11:45 - DROGARIA PATRICIA - PATRÍCIA: Bom dia
+18/04/18 11:45 - Infog2 Tecnologia: Seja bem-vindo(a) a Infog2 Tecnologia! Estamos ansiosos para atendê-lo(a).
+18/04/18 11:46 - DROGARIA PATRICIA - PATRÍCIA: Não estou conseguindo finalizar uma venda do portal Drogaria
+18/04/18 11:47 - DROGARIA PATRICIA - PATRÍCIA: Aparece a mensagem que houve um erro
+18/04/18 11:52 - Infog2 Tecnologia: Bom dia
+18/04/18 11:52 - Infog2 Tecnologia: Qual a mensagem de erro?
+18/04/18 11:53 - DROGARIA PATRICIA - PATRÍCIA: Erro na aplicação do sistema
+18/04/18 11:53 - Infog2 Tecnologia: Me mande uma foto do erro, por favor
+18/04/18 11:53 - DROGARIA PATRICIA - PATRÍCIA: Pior que agora cancelei a venda
+18/04/18 11:54 - DROGARIA PATRICIA - PATRÍCIA: Vou fazer de novo
+18/04/18 11:54 - Infog2 Tecnologia: É uma venda de 236?
+18/04/18 11:54 - DROGARIA PATRICIA - PATRÍCIA: Sim
+18/04/18 11:55 - Infog2 Tecnologia: Aqui no site está acusando erro de cfop
+18/04/18 11:55 - DROGARIA PATRICIA - PATRÍCIA: Haaaa tá
+18/04/18 11:55 - Infog2 Tecnologia: <Arquivo de mídia oculto>
+18/04/18 11:55 - DROGARIA PATRICIA - PATRÍCIA: Então foi no cadastro do produto
+18/04/18 11:55 - Infog2 Tecnologia: Isso
+18/04/18 11:55 - Infog2 Tecnologia: O cfop é de acordo com a tributação
+18/04/18 11:55 - DROGARIA PATRICIA - PATRÍCIA: Ok
+18/04/18 11:56 - Infog2 Tecnologia: Se for tributado por substituição o cfop é 5405
+18/04/18 11:56 - Infog2 Tecnologia: Para qualquer outra tributação é 5102
+18/04/18 11:56 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+18/04/18 11:56 - Infog2 Tecnologia: Tem que corrigir antes de fazer a venda
+18/04/18 11:56 - Infog2 Tecnologia: A sefaz rejeita as notas com cfop errado
+18/04/18 11:56 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+18/04/18 11:56 - Infog2 Tecnologia: Se deixar aberto no site pode usar o mesmo nsu
+18/04/18 11:57 - Infog2 Tecnologia: Só não pode fechar lá no site enquanto não fizer no sistema
+18/04/18 11:57 - DROGARIA PATRICIA - PATRÍCIA: Então substituição têm que ser  5405
+18/04/18 11:57 - Infog2 Tecnologia: Isso antes de ser implementada a nfce
+18/04/18 11:57 - Infog2 Tecnologia: Agora com cupom fiscal as notas são enviadas direto pra sefaz
+18/04/18 11:57 - Infog2 Tecnologia: Ele só aceitas com esses dois cfops
+18/04/18 11:57 - Infog2 Tecnologia: Eu posso corrigir todos de uma vez
+18/04/18 11:58 - DROGARIA PATRICIA - PATRÍCIA: Então altero a CFOP
+18/04/18 11:58 - Infog2 Tecnologia: Os de agora em diante a senhora coloca os corretos
+18/04/18 11:58 - Infog2 Tecnologia: Me passe o teamviewer eu corrijo todos de uma vez
+18/04/18 11:58 - DROGARIA PATRICIA - PATRÍCIA: E posso usar o mesmo NSU
+18/04/18 11:58 - Infog2 Tecnologia: Sim
+18/04/18 11:59 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+18/04/18 11:59 - Infog2 Tecnologia: Então corrija só o que vai usar
+18/04/18 12:00 - DROGARIA PATRICIA - PATRÍCIA: Ok
+18/04/18 12:00 - DROGARIA PATRICIA - PATRÍCIA: Já estou corrigindo
+18/04/18 12:00 - DROGARIA PATRICIA - PATRÍCIA: Só um instante
+18/04/18 12:03 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+18/04/18 12:03 - Infog2 Tecnologia: Olá, agradecemos por sua mensagem. Não estamos disponíveis no momento, mas respoderemos assim que retornarmos.
+18/04/18 12:04 - DROGARIA PATRICIA - PATRÍCIA: Deu certo não
+18/04/18 12:05 - DROGARIA PATRICIA - PATRÍCIA: Alterei o CFOP
+18/04/18 12:05 - DROGARIA PATRICIA - PATRÍCIA: Mais continuou com essa mensagem
+18/04/18 12:06 - DROGARIA PATRICIA - PATRÍCIA: Vou esperar vocês retornarem do almoço
+18/04/18 12:06 - DROGARIA PATRICIA - PATRÍCIA: Pra ver o que está acontecendo
+18/04/18 12:46 - Infog2 Tecnologia: Boa tarde
+18/04/18 12:46 - Infog2 Tecnologia: Me conecta pelo teamviewer
+18/04/18 13:10 - DROGARIA PATRICIA - PATRÍCIA: Já estou para o almoço
+18/04/18 13:10 - DROGARIA PATRICIA - PATRÍCIA: Quando voltar te aviso
+18/04/18 13:11 - Infog2 Tecnologia: Ok
+18/04/18 15:49 - DROGARIA PATRICIA - PATRÍCIA: Oi boa tarde
+18/04/18 15:49 - DROGARIA PATRICIA - PATRÍCIA: Estamos perdidos aqui
+18/04/18 15:49 - Infog2 Tecnologia: Boa tarde
+18/04/18 15:49 - Infog2 Tecnologia: Qual a dúvida?
+18/04/18 15:49 - DROGARIA PATRICIA - PATRÍCIA: Não têm como falar com você por telefone
+18/04/18 15:50 - DROGARIA PATRICIA - PATRÍCIA: Quero falar com a pessoa que atualizou o sistema
+18/04/18 15:50 - Infog2 Tecnologia: Eu fiz a atualização
+18/04/18 15:50 - Infog2 Tecnologia: Qual a sua dúvida?
+18/04/18 15:50 - DROGARIA PATRICIA - PATRÍCIA: Ok
+18/04/18 15:51 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+18/04/18 15:52 - Infog2 Tecnologia: Os caixas que estavam abertos pela manhã *eu fechei* por causa da atualização
+18/04/18 15:52 - DROGARIA PATRICIA - PATRÍCIA: Ok
+18/04/18 15:52 - Infog2 Tecnologia: Por isso não mostra nas transações
+18/04/18 15:52 - Infog2 Tecnologia: Expliquei pra ela isso
+18/04/18 15:52 - Infog2 Tecnologia: Que era pra abrir de novo
+18/04/18 15:52 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+18/04/18 15:52 - Infog2 Tecnologia: É começar outro caixa
+18/04/18 15:53 - Infog2 Tecnologia: O usuário 1 É da infog2, eu abri para teste.
+18/04/18 15:53 - Infog2 Tecnologia: O usuário 2 Ela deve ter aberto.
+18/04/18 15:53 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+18/04/18 15:53 - Infog2 Tecnologia: E está correto
+18/04/18 15:53 - Infog2 Tecnologia: Tem que abrir caixa pra fazer vendas
+18/04/18 15:53 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+18/04/18 15:54 - Infog2 Tecnologia: A atualização foi feita pra não ter que usar dois caixas
+18/04/18 15:54 - DROGARIA PATRICIA - PATRÍCIA: Sim
+18/04/18 15:54 - Infog2 Tecnologia: *Os caixas que elas abriram pela manhã, eu fechei*
+18/04/18 15:55 - Infog2 Tecnologia: O caixa 1, ignore é do meu usuário
+18/04/18 15:55 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+18/04/18 15:55 - DROGARIA PATRICIA - PATRÍCIA: Ok
+18/04/18 15:55 - DROGARIA PATRICIA - PATRÍCIA: No final do expediente como fazer para conferir e validar o caixa?
+18/04/18 15:57 - Infog2 Tecnologia: Normalmente como antes. Somente o de hoje vai ter a diferença porque tive de fechar o caixa
+18/04/18 15:58 - Infog2 Tecnologia: Só o que mudou, é  que no final da venda ele vai trazer essa mensagem
+18/04/18 15:58 - Infog2 Tecnologia: <Arquivo de mídia oculto>
+18/04/18 15:58 - Infog2 Tecnologia: Se clicar no vermelho ele não envia a venda pra sefaz( venda não fiscal)
+18/04/18 15:59 - Infog2 Tecnologia: Quando forem vendas do portal da DROGARIA, basta clicar no verde que a venda vai ser enviada pra sefaz
+18/04/18 15:59 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+18/04/18 15:59 - DROGARIA PATRICIA - PATRÍCIA: Ok
+18/04/18 16:00 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+18/04/18 16:02 - Infog2 Tecnologia: Pra validar ele mostra na esquerda
+18/04/18 16:02 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+18/04/18 16:03 - Infog2 Tecnologia: Ok
+18/04/18 16:16 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+18/04/18 16:17 - Infog2 Tecnologia: Você selecionou o vermelho(não fiscal)?
+18/04/18 16:32 - Infog2 Tecnologia: Teste agora
+18/04/18 16:52 - Infog2 Tecnologia: Tudo certo?
+18/04/18 16:53 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+18/04/18 16:59 - Infog2 Tecnologia: Pronto

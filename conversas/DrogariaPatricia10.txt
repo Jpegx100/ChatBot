@@ -1,0 +1,30 @@
+09/07/18 09:17 - DROGARIA PATRICIA - PATRÍCIA: Bom dia 
+Estou com um problema na impressora fiscal
+09/07/18 09:18 - Infog2 Tecnologia: Bom dia
+09/07/18 09:18 - Infog2 Tecnologia: Lislayne aqui
+09/07/18 09:18 - Infog2 Tecnologia: Qual o problema???
+09/07/18 09:18 - DROGARIA PATRICIA - PATRÍCIA: Não estou conseguindo imprimir um cupom fiscal
+09/07/18 09:19 - Infog2 Tecnologia: Me conecta no team viewer
+09/07/18 09:19 - DROGARIA PATRICIA - PATRÍCIA: Ok
+09/07/18 09:20 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+09/07/18 09:21 - DROGARIA PATRICIA - PATRÍCIA: Conseguiu conectar?
+09/07/18 09:22 - Infog2 Tecnologia: Sim .e
+09/07/18 09:22 - Infog2 Tecnologia: Me mostra o erro
+09/07/18 09:23 - DROGARIA PATRICIA - PATRÍCIA: Só um momento
+09/07/18 09:23 - Infog2 Tecnologia: Ok
+09/07/18 09:25 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+09/07/18 09:25 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+09/07/18 09:31 - Infog2 Tecnologia: Pronto
+09/07/18 09:31 - Infog2 Tecnologia: Pode usar
+09/07/18 09:31 - DROGARIA PATRICIA - PATRÍCIA: Ok
+09/07/18 09:31 - DROGARIA PATRICIA - PATRÍCIA: Obrigada
+09/07/18 09:32 - Infog2 Tecnologia: O problema ocorreu pois o cabo da impressora foi mudado de porta usb, não pode tirar o cabo da impressora e colocar em outra porta. Pois o sistema fica sem saber em qual local a iimpressora está conectada
+09/07/18 09:32 - Infog2 Tecnologia: Por nada
+09/07/18 12:10 - DROGARIA PATRICIA - PATRÍCIA: <Arquivo de mídia oculto>
+09/07/18 12:54 - Infog2 Tecnologia: Boa tarde, você consegue ver as venda pelas transações
+09/07/18 12:55 - Infog2 Tecnologia: Vá em f9 funções >> Transações
+09/07/18 12:55 - Infog2 Tecnologia: veja se a venda está como normal
+09/07/18 12:55 - Infog2 Tecnologia: Se a impressão não saiu por completo, você pode cancelar e refazer a venda
+09/07/18 13:01 - DROGARIA PATRICIA - PATRÍCIA: Era uma venda no portal Drogaria
+09/07/18 13:01 - DROGARIA PATRICIA - PATRÍCIA: Não sei como olhar a transação não
+09/07/18 13:21 - Infog2 Tecnologia: Ah, no portal do drogaria tem que ver com eles
