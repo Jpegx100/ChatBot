@@ -9,6 +9,7 @@
 04/04/18 10:15 - Infog2 Tecnologia: Vou abrir seu chamado, um dos tecnicos vai entrar em contato com você
 04/04/18 10:16 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Ta bom
 Aguardo
+
 04/04/18 10:25 - Infog2 Tecnologia: Bom dia
 04/04/18 10:26 - Infog2 Tecnologia: O cadastro é da mesma forma que os com nota fiscal.  A diferença é na hora de colocar o estoque
 04/04/18 10:26 - Infog2 Tecnologia: Você tem duas opções
@@ -34,6 +35,8 @@ Aviso
 So que no primeiro momento vamos ter que lançar sem notas msm
 
 So depois que tiver tudo em estoque e a gente usando o sistema, é que vamos lançar estoque com a nota.
+
+
 04/04/18 10:51 - DROGARIA SAO JOAO - CASTELO - IRISLANDIA: Com quem estou falando msm? Kkk
 04/04/18 10:51 - Infog2 Tecnologia: Certo, você fala com mayllana
 04/04/18 10:52 - Infog2 Tecnologia: O primeiro estoque de tudo você pode fazer pelo inventário
