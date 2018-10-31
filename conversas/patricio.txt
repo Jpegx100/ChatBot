@@ -1,0 +1,62 @@
+Não estou abrindo o plus em nenhum pc,Outros,1
+Vendas do dia,Outros,1
+Tá certo,Outros,1
+Estou reiniciado e mando já,Outros,1
+Abre o cx 8,Outros,1
+Esse é o que vejo se foi pra receita?,Outros,1
+Boa tarde,Saudacao,1
+Não tô conseguindo abrir o caixa nos outros computadores,Problema,1
+Esta usuário esta aberto em outro caixa,Outros,1
+No da impressora abre normal,Outros,1
+Mas nos outros computadores não abre,Problema,1
+Nenhum,Outros,1
+Nenhuma,Outros,1
+Nessa que esta mexendo,Outros,1
+Nessa maquina não abre nenhum caixa,Problema,1
+La tá tufo fechado,Outros,1
+Fechei pra ver se  era isso,Outros,1
+Tá bom,Outros,1
+Pronto,Outros,1
+Obrigado,Outros,1
+Já disse aqui pra ela,Outros,1
+Maylana falo já com vc...Eduardo que é agoniado...deixa ele sair do escritorio,Outros,1
+Bom dia,Saudacao,3
+Com quem falo?.,Duvida,3
+Já está conectada,,3
+Oi,Saudacao,3
+No momento não estou na empresa,Outros,3
+Estou no centro,Outros,3
+Pode deixar.,Outros,3
+Já estou no comércio.,Outros,3
+O que faço ?.,Duvida,3
+Mas essa impressora só é usada aqui,Outros,3
+É problema no cabo?.,Duvida,3
+Ou então a questão da agilização que ficou incompatível,Outros,3
+Posso acessar ao computador,Duvida,3
+Obrigada,Outros,3
+Boa tarde,Saudacao,3
+Certo. Vou só lançar mais umas notas e aviso a você,Outros,3
+Pode ser?.,Duvida,3
+Sim,Outros,4
+Tv de todos?,Duvida,4
+Boa tarde,Saudacao,4
+Oi,Saudacao,4
+Ainda vai atualizar lá?,Duvida,4
+Só um minuto,Outros,4
+Obrigado,Outros,4
+Bom dia!,Saudacao,5
+Estou precisando de uma nfe,Problema,5
+É urgente,Outros,5
+Estou esperando mas o cliente tem pressa,Outros,5
+Eita chamado demorado 🤔,Outros,5
+Da impressora?,Duvida,5
+Pode ser só uma copia também,Outros,5
+Mas se der para tirar pela impressora fiscal,  com demais,Outros,5
+Então posso fazer outra? Tenho ela discriminada em um bloco,Outros,5
+Mas foi lion?,Duvida,5
+Tudo bem,Saudacao,5
+Foi ele que só veio hoje,Outros,5
+Posso fazer outra então,Outros,5
+Que eu lembre agora nao🙈,Outros,5
+Veja só com o Gabriel o que pedi,Outros,5
+Obrigado,Outros,5
