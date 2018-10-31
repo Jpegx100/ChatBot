@@ -91,11 +91,16 @@ x_val = train_data[:limit_train]
 y_val = train_labels[:limit_train]
 
 history = model.fit(
-    partial_x_train,
-    partial_y_train,
-    epochs=500,
-    batch_size=10,
-    validation_data=(x_val, y_val)
+    # partial_x_train,
+    # partial_y_train,
+    train_data,
+    train_labels,
+    epochs=100,
+    # validation_data=(x_val, y_val)
 )
+a, b = model.evaluate(test_data, test_labels)
+print(a)
+print(b)
 
-print(model.evaluate(test_data, test_labels))
+pre = model.predict(test_data)
+import pdb;pdb.set_trace()
