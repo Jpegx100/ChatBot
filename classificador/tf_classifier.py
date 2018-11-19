@@ -22,7 +22,6 @@ class TensorFlowClassifier(object):
         for line in lines:
             splited_line = line.split(',')
             sentence = ','.join(splited_line[:-2])
-
             self.labels.append(int(splited_line[-2]))
             self.sentences.append(sentence)
 
