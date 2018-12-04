@@ -1,12 +1,20 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import nltk
 import numpy as np
 import tensorflow as tf
+import random
 import pickle
+import json
+import constantes
 from tensorflow import keras
-from random import shuffle
 from sklearn.metrics import confusion_matrix
+from sklearn.utils import shuffle
+from keras.models import load_model
 
 class TensorFlowClassifier(object):
+    model = None
     raw = None
     texts = list()
     labels = list()
@@ -35,6 +43,7 @@ class TensorFlowClassifier(object):
         sentences_nsw = [
             self.remove_stop_words(sentence) for sentence in self.sentences
         ]
+        self.postagger = pickle.load(open('postagger.pickle', 'rb'))
 
         self.non_stop_words = set(' '.join(sentences_nsw).split())
         for i, word in enumerate(self.non_stop_words):
@@ -43,6 +52,8 @@ class TensorFlowClassifier(object):
 
         for sent_ns in sentences_nsw:
             self.texts.append([self.word2int[word] for word in sent_ns.split()])
+        
+        self.load_model()
     
     def get_features(self, post, postagger):
         features = {}
@@ -76,7 +87,7 @@ class TensorFlowClassifier(object):
             if word in conf_words:
                 conf_words_count = conf_words_count + 1
 
-        features['pattern'] = ' '.join(classes)
+        # features['pattern'] = ' '.join(classes)
         features['num_words'] = len(words)
         features['question_sign'] = 1 if '?' in post else 0
         features['err_words'] = err_words_count
@@ -92,15 +103,16 @@ class TensorFlowClassifier(object):
             features['avg_word_size'] = 0
         
         return features
+    
+    def dict_to_array(self, features):
+        return [features[key] for key in features.keys()]
 
     def get_data(self):
-        # return self.texts, self.labels
-        postagger = pickle.load(open('postagger.pickle', 'rb'))
         result = list()
         for sent in self.sentences:
-            features = self.get_features(sent, postagger)
-            feature_values = [features[key] for key in features.keys()]
-            feature_values.pop(0)
+            features = self.get_features(sent, self.postagger)
+            feature_values = self.dict_to_array(features)
+            # feature_values.pop(0)
             result.append(feature_values)
         return result, self.labels
 
@@ -112,51 +124,61 @@ class TensorFlowClassifier(object):
         for sw in self.stop_words:
             sent = sent.replace(sw, '')
         return sent
+    
+    def load_model(self):
+        
+        texts, labels = self.get_data()
+        texts, labels = shuffle(texts, labels)
 
-tsc = TensorFlowClassifier()
-texts, labels = tsc.get_data()
+        limit = 300
+        (test_data, test_labels) = (texts[:limit], labels[:limit])
+        (train_data, train_labels) = (texts[limit:], labels[limit:])
 
-limit = 300
-(test_data, test_labels) = (texts[:limit], labels[:limit])
-(train_data, train_labels) = (texts[limit:], labels[limit:])
+        train_labels = keras.utils.to_categorical(train_labels, num_classes=8)
+        test_labels = keras.utils.to_categorical(test_labels, num_classes=8)
 
-train_labels = keras.utils.to_categorical(train_labels, num_classes=8)
-test_labels = keras.utils.to_categorical(test_labels, num_classes=8)
+        train_data = np.asarray(train_data)
+        test_data = np.asarray(test_data)
 
-train_data = keras.preprocessing.sequence.pad_sequences(
-    train_data, value=0, padding='post', maxlen=15
-)
-test_data = keras.preprocessing.sequence.pad_sequences(
-    test_data, value=0, padding='post', maxlen=15
-)
+        model = keras.Sequential()
+        model.add(keras.layers.Dense(32, activation='relu', input_dim=9))
+        model.add(keras.layers.Dense(32, activation=tf.nn.relu))
+        model.add(keras.layers.Dense(8, activation='softmax'))
 
-model = keras.Sequential()
-model.add(keras.layers.Dense(32, activation='relu', input_dim=15))
-model.add(keras.layers.Dense(32, activation=tf.nn.relu))
-model.add(keras.layers.Dense(8, activation='softmax'))
+        model.compile(
+            optimizer=tf.train.AdamOptimizer(),
+            loss='binary_crossentropy',
+            metrics=['accuracy']
+        )
 
-model.compile(
-    optimizer=tf.train.AdamOptimizer(),
-    loss='binary_crossentropy',
-    metrics=['accuracy']
-)
+        model.summary()
 
-model.summary()
+        history = model.fit(
+            train_data,
+            train_labels,
+            epochs=80
+        )
+        self.model = model
 
-history = model.fit(
-    train_data,
-    train_labels,
-    epochs=150
-)
+        a, b = model.evaluate(test_data, test_labels)
 
-a, b = model.evaluate(test_data, test_labels)
+        print(a)
+        print(b)
+        previsao = model.predict(test_data)
+        teste_matrix = [np.argmax(t) for t in test_labels]
+        previsoes_matrix = [np.argmax(t) for t in previsao]
 
-print(a)
-print(b)
-previsao = model.predict(test_data)
-teste_matrix = [np.argmax(t) for t in test_labels]
-previsoes_matrix = [np.argmax(t) for t in previsao]
-
-confusao = confusion_matrix(teste_matrix, previsoes_matrix)
-print(confusao)
-import pdb;pdb.set_trace()
+        confusao = confusion_matrix(teste_matrix, previsoes_matrix)
+        print(confusao)
+    
+    def predict(self, text, format_result=False):
+        features = self.get_features(text, self.postagger)
+        features = self.dict_to_array(features)
+        array = np.asarray([features])
+        result = self.model.predict(array)[0]
+        max_result = max(result)
+        for i in range(len(result)):
+            if result[i] == max_result:
+                if format_result:
+                    return constantes.label_to_text[i]
+                return i
