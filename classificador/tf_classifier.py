@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+import os
 
 import nltk
 import numpy as np
@@ -12,6 +13,7 @@ from tensorflow import keras
 from sklearn.metrics import confusion_matrix
 from sklearn.utils import shuffle
 from keras.models import load_model
+from ann_visualizer.visualize import ann_viz
 
 class TensorFlowClassifier(object):
     model = None
@@ -151,25 +153,25 @@ class TensorFlowClassifier(object):
             metrics=['accuracy']
         )
 
-        model.summary()
-
         history = model.fit(
             train_data,
             train_labels,
-            epochs=80
+            epochs=80,
+            verbose=0
         )
         self.model = model
 
         a, b = model.evaluate(test_data, test_labels)
 
-        print(a)
-        print(b)
+        # print(a)
+        os.system('clear')
+        print("Classificador treinado em 80 épocas\nAcurácia: {}".format(b))
         previsao = model.predict(test_data)
         teste_matrix = [np.argmax(t) for t in test_labels]
         previsoes_matrix = [np.argmax(t) for t in previsao]
 
-        confusao = confusion_matrix(teste_matrix, previsoes_matrix)
-        print(confusao)
+        # confusao = confusion_matrix(teste_matrix, previsoes_matrix)
+        # print(confusao)
     
     def predict(self, text, format_result=False):
         features = self.get_features(text, self.postagger)

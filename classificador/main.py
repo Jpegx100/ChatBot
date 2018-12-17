@@ -57,3 +57,4 @@ while input_text != 'exit':
         saida = confirmado()
     elif classe == constantes.CLASSE_INFORMACAO:
         adicionar_informacao(input_text.lower())
+        
